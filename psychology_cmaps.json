@@ -1,0 +1,5289 @@
+[
+    {
+        "title": "mental_health",
+        "fq": "what is mental health and what are its characteristics?",
+        "ts": [
+            {
+                "s": "mental health",
+                "r": "is a",
+                "t": "state of mind"
+            },
+            {
+                "s": "mental health",
+                "r": "is characterized by",
+                "t": "emotional well-being"
+            },
+            {
+                "s": "mental health",
+                "r": "is characterized by",
+                "t": "good behavioral adjustment"
+            },
+            {
+                "s": "mental health",
+                "r": "is characterized by",
+                "t": "relative freedom from anxiety"
+            },
+            {
+                "s": "mental health",
+                "r": "is characterized by",
+                "t": "capacity to establish constructive relationships"
+            },
+            {
+                "s": "mental health",
+                "r": "is characterized by",
+                "t": "capacity to cope with the ordinary demands and stresses of life"
+            }
+        ]
+    },
+    {
+        "title": "flourishing",
+        "fq": "what is flourishing and what are its characteristics?",
+        "ts": [
+            {
+                "s": "flourishing",
+                "r": "is a",
+                "t": "condition"
+            },
+            {
+                "s": "flourishing",
+                "r": "denotes",
+                "t": "good mental and physical health"
+            },
+            {
+                "s": "good mental and physical health",
+                "r": "denotes",
+                "t": "state of being free from illness and distress"
+            },
+            {
+                "s": "good mental and physical health",
+                "r": "denotes",
+                "t": "state of being filled with vitality"
+            },
+            {
+                "s": "good mental and physical health",
+                "r": "denotes",
+                "t": "functioning well in one's personal and social life"
+            }
+        ]
+    },
+    {
+        "title": "languishing",
+        "fq": "what is languishing and what are its characteristics?",
+        "ts": [
+            {
+                "s": "languishing",
+                "r": "is the",
+                "t": "condition of absence of mental health"
+            },
+            {
+                "s": "languishing",
+                "r": "is characterized by",
+                "t": "ennui"
+            },
+            {
+                "s": "languishing",
+                "r": "is characterized by",
+                "t": "apathy"
+            },
+            {
+                "s": "languishing",
+                "r": "is characterized by",
+                "t": "listlessness"
+            },
+            {
+                "s": "languishing",
+                "r": "is characterized by",
+                "t": "loss of interest in life"
+            }
+        ]
+    },
+    {
+        "title": "depression",
+        "fq": "what is depression and what are its characteristics?",
+        "ts": [
+            {
+                "s": "depression",
+                "r": "is a",
+                "t": "negative affective state"
+            },
+            {
+                "s": "negative affective state",
+                "r": "ranges from",
+                "t": "unhappiness and discontent"
+            },
+            {
+                "s": "negative affective state",
+                "r": "ranges from",
+                "t": "extreme feeling of sadness, pessimism, and despondency"
+            },
+            {
+                "s": "negative affective state",
+                "r": "is a",
+                "t": "interferes with daily life"
+            },
+            {
+                "s": "depression",
+                "r": "co-occurs with",
+                "t": "physical, cognitive, and social changes"
+            },
+            {
+                "s": "physical, cognitive, and social changes",
+                "r": "includes",
+                "t": "altered eating or sleeping habits"
+            },
+            {
+                "s": "physical, cognitive, and social changes",
+                "r": "includes",
+                "t": "lack of energy or motivation"
+            },
+            {
+                "s": "physical, cognitive, and social changes",
+                "r": "includes",
+                "t": "difficulty concentrating or making decisions"
+            },
+            {
+                "s": "physical, cognitive, and social changes",
+                "r": "includes",
+                "t": "withdrawal from social activities"
+            },
+            {
+                "s": "depression",
+                "r": "is symptomatic of",
+                "t": "mental health disorders"
+            }
+        ]
+    },
+    {
+        "title": "depressive_disorder",
+        "fq": "what is a depressive disorder and what are its types?",
+        "ts": [
+            {
+                "s": "depressive disorder",
+                "r": "is any of the",
+                "t": "mood disorders"
+            },
+            {
+                "s": "depressive disorder",
+                "r": "has as predominant symptom",
+                "t": "sadness"
+            },
+            {
+                "s": "depressive disorder",
+                "r": "has as predominant symptom",
+                "t": "empty or irritable mood"
+            },
+            {
+                "s": "dsm-5 and dsm-5-tr",
+                "r": "includes",
+                "t": "major depressive disorder"
+            },
+            {
+                "s": "dsm-5 and dsm-5-tr",
+                "r": "includes",
+                "t": "dysthymic disorder"
+            },
+            {
+                "s": "dsm-5 and dsm-5-tr",
+                "r": "includes",
+                "t": "disruptive mood dysregulation disorder"
+            },
+            {
+                "s": "dsm-5 and dsm-5-tr",
+                "r": "includes",
+                "t": "persistent depressive disorder"
+            },
+            {
+                "s": "dsm-5 and dsm-5-tr",
+                "r": "includes",
+                "t": "premenstrual dysphoric disorder"
+            },
+            {
+                "s": "dsm-5 and dsm-5-tr",
+                "r": "includes",
+                "t": "substance/medication-induced depressive disorder"
+            },
+            {
+                "s": "dsm-5 and dsm-5-tr",
+                "r": "includes",
+                "t": "depressive disorder due to another medical condition"
+            },
+            {
+                "s": "dsm-5 and dsm-5-tr",
+                "r": "includes",
+                "t": "other specified depressive disorder"
+            },
+            {
+                "s": "dsm-5 and dsm-5-tr",
+                "r": "includes",
+                "t": "unspecified depressive disorder"
+            }
+        ]
+    },
+    {
+        "title": "major_depressive_disorder",
+        "fq": "what is major depressive disorder and what are its main characteristics?",
+        "ts": [
+            {
+                "s": "major depressive disorder",
+                "r": "is a",
+                "t": "mood disorder"
+            },
+            {
+                "s": "major depressive disorder",
+                "r": "is characterized by",
+                "t": "persistent sadness"
+            },
+            {
+                "s": "major depressive disorder",
+                "r": "is characterized by",
+                "t": "symptoms of a major depressive episode"
+            },
+            {
+                "s": "major depressive disorder",
+                "r": "is without accompanying",
+                "t": "episodes of mania"
+            },
+            {
+                "s": "major depressive disorder",
+                "r": "is without accompanying",
+                "t": "hypomania"
+            },
+            {
+                "s": "major depressive disorder",
+                "r": "is without accompanying",
+                "t": "mixed episodes of depressive and manic or hypomanic symptoms"
+            },
+            {
+                "s": "major depressive disorder",
+                "r": "is included in",
+                "t": "dsm-iv-tr"
+            },
+            {
+                "s": "major depressive disorder",
+                "r": "is included in",
+                "t": "dsm-5"
+            },
+            {
+                "s": "major depressive disorder",
+                "r": "is included in",
+                "t": "dsm-5-tr"
+            },
+            {
+                "s": "major depressive disorder",
+                "r": "is also called",
+                "t": "major depression"
+            }
+        ]
+    },
+    {
+        "title": "major_depressive_episode",
+        "fq": "what is a major depressive episode and what are its symptoms and diagnostic criteria?",
+        "ts": [
+            {
+                "s": "major depressive episode",
+                "r": "is a",
+                "t": "period"
+            },
+            {
+                "s": "major depressive episode",
+                "r": "includes",
+                "t": "anhedonia"
+            },
+            {
+                "s": "major depressive episode",
+                "r": "includes",
+                "t": "persistently sad"
+            },
+            {
+                "s": "major depressive episode",
+                "r": "includes",
+                "t": "pessimistic"
+            },
+            {
+                "s": "major depressive episode",
+                "r": "includes",
+                "t": "overly negative"
+            },
+            {
+                "s": "major depressive episode",
+                "r": "includes",
+                "t": "poor or increased appetite"
+            },
+            {
+                "s": "poor or increased appetite",
+                "r": "with",
+                "t": "significant weight loss or gain"
+            },
+            {
+                "s": "major depressive episode",
+                "r": "includes",
+                "t": "insomnia or excessive sleep"
+            },
+            {
+                "s": "major depressive episode",
+                "r": "includes",
+                "t": "psychomotor agitation"
+            },
+            {
+                "s": "major depressive episode",
+                "r": "includes",
+                "t": "psychomotor retardation"
+            },
+            {
+                "s": "major depressive episode",
+                "r": "includes",
+                "t": "loss of energy with fatigue"
+            },
+            {
+                "s": "major depressive episode",
+                "r": "includes",
+                "t": "feelings of worthlessness or inappropriate guilt"
+            },
+            {
+                "s": "major depressive episode",
+                "r": "includes",
+                "t": "reduced ability to concentrate or make decisions"
+            },
+            {
+                "s": "major depressive episode",
+                "r": "includes",
+                "t": "recurrent thoughts of death"
+            },
+            {
+                "s": "major depressive episode",
+                "r": "includes",
+                "t": "suicidal ideation"
+            },
+            {
+                "s": "major depressive episode",
+                "r": "includes",
+                "t": "attempted suicide"
+            },
+            {
+                "s": "dsm-5",
+                "r": "retain",
+                "t": "symptomatic criteria"
+            },
+            {
+                "s": "dsm-5-tr",
+                "r": "retain",
+                "t": "symptomatic criteria"
+            },
+            {
+                "s": "dsm-5",
+                "r": "have removed",
+                "t": "bereavement exclusion"
+            },
+            {
+                "s": "dsm-5-tr",
+                "r": "have removed",
+                "t": "bereavement exclusion"
+            },
+            {
+                "s": "major depressive episode",
+                "r": "is a characteristic feature of",
+                "t": "major depressive disorder"
+            },
+            {
+                "s": "major depressive episode",
+                "r": "is a characteristic feature of",
+                "t": "bipolar disorder"
+            }
+        ]
+    },
+    {
+        "title": "anedonia",
+        "fq": "what is anhedonia and what are its main characteristics?",
+        "ts": [
+            {
+                "s": "anhedonia",
+                "r": "is the",
+                "t": "inability to enjoy experiences or activities that normally would be pleasurable"
+            },
+            {
+                "s": "anhedonia",
+                "r": "is one of",
+                "t": "defining symptoms of a major depressive episode"
+            },
+            {
+                "s": "defining symptoms of a major depressive episode",
+                "r": "includes",
+                "t": "persistent depressed mood"
+            },
+            {
+                "s": "anhedonia",
+                "r": "is seen in",
+                "t": "other disorders"
+            },
+            {
+                "s": "other disorders",
+                "r": "includes",
+                "t": "schizophrenia"
+            },
+            {
+                "s": "anhedonia",
+                "r": "was defined by",
+                "t": "th\u00e9odule ribot"
+            }
+        ]
+    },
+    {
+        "title": "dysthimic_disorder",
+        "fq": "focus question: what is dysthymic disorder and what are its alternative names?",
+        "ts": [
+            {
+                "s": "dysthymic disorder",
+                "r": "is a designation in",
+                "t": "dsm\u2013iv\u2013tr"
+            },
+            {
+                "s": "dysthymic disorder",
+                "r": "is a",
+                "t": "mood disorder"
+            },
+            {
+                "s": "dysthymic disorder",
+                "r": "is characterized by",
+                "t": "symptoms that are less severe but more enduring than those in major depressive disorder"
+            },
+            {
+                "s": "persistent depressive disorder",
+                "r": "is a designation in",
+                "t": "dsm-5"
+            },
+            {
+                "s": "persistent depressive disorder",
+                "r": "is a designation in",
+                "t": "dsm-5-tr"
+            },
+            {
+                "s": "persistent depressive disorder",
+                "r": "is a",
+                "t": "consolidation of dysthymic disorder and chronic major depressive disorder"
+            },
+            {
+                "s": "chronic major depressive disorder",
+                "r": "is defined in",
+                "t": "dsm-iv"
+            },
+            {
+                "s": "dysthymic disorder",
+                "r": "is also called",
+                "t": "dysthymia"
+            }
+        ]
+    },
+    {
+        "title": "psychomotor_agitation",
+        "fq": "what is psychomotor agitation and what are its main characteristics?",
+        "ts": [
+            {
+                "s": "psychomotor agitation",
+                "r": "is",
+                "t": "restless physical activity"
+            },
+            {
+                "s": "restless physical activity",
+                "r": "arising from",
+                "t": "mental tension or disturbance"
+            },
+            {
+                "s": "psychomotor agitation",
+                "r": "includes",
+                "t": "pacing"
+            },
+            {
+                "s": "psychomotor agitation",
+                "r": "includes",
+                "t": "hand wringing"
+            },
+            {
+                "s": "psychomotor agitation",
+                "r": "includes",
+                "t": "pulling or rubbing clothing and other objects"
+            },
+            {
+                "s": "psychomotor agitation",
+                "r": "is a common symptom of",
+                "t": "major depressive episodes"
+            },
+            {
+                "s": "psychomotor agitation",
+                "r": "is a common symptom of",
+                "t": "manic episodes"
+            },
+            {
+                "s": "psychomotor agitation",
+                "r": "is also called",
+                "t": "psychomotor excitement"
+            }
+        ]
+    },
+    {
+        "title": "pyschomotor_retardation",
+        "fq": "what is psychomotor retardation and what are its main characteristics?",
+        "ts": [
+            {
+                "s": "psychomotor retardation",
+                "r": "is a",
+                "t": "slowing down or inhibition of mental and physical activity"
+            },
+            {
+                "s": "psychomotor retardation",
+                "r": "manifest as",
+                "t": "slow speech with long pauses before answers"
+            },
+            {
+                "s": "psychomotor retardation",
+                "r": "manifest as",
+                "t": "slowness in thinking"
+            },
+            {
+                "s": "psychomotor retardation",
+                "r": "manifest as",
+                "t": "slow body movements"
+            },
+            {
+                "s": "psychomotor retardation",
+                "r": "is a common symptom of",
+                "t": "major depressive episodes"
+            }
+        ]
+    },
+    {
+        "title": "manic_episode",
+        "fq": "what is a manic episode and what are its main characteristics?",
+        "ts": [
+            {
+                "s": "manic episode",
+                "r": "is characterized by",
+                "t": "elevated, expansive, or irritable mood"
+            },
+            {
+                "s": "manic episode",
+                "r": "has symptoms of",
+                "t": "increase in activity or psychomotor agitation"
+            },
+            {
+                "s": "manic episode",
+                "r": "has symptoms of",
+                "t": "talkativeness or pressured speech"
+            },
+            {
+                "s": "manic episode",
+                "r": "has symptoms of",
+                "t": "flight of ideas or racing thoughts"
+            },
+            {
+                "s": "manic episode",
+                "r": "has symptoms of",
+                "t": "inflated self-esteem or grandiosity"
+            },
+            {
+                "s": "manic episode",
+                "r": "has symptoms of",
+                "t": "decreased need for sleep"
+            },
+            {
+                "s": "manic episode",
+                "r": "has symptoms of",
+                "t": "extreme distractibility"
+            },
+            {
+                "s": "manic episode",
+                "r": "has symptoms of",
+                "t": "intense pursuit of activities that are likely to have unfortunate consequences"
+            },
+            {
+                "s": "intense pursuit of activities that are likely to have unfortunate consequences",
+                "r": "can include",
+                "t": "buying sprees"
+            },
+            {
+                "s": "intense pursuit of activities that are likely to have unfortunate consequences",
+                "r": "can include",
+                "t": "sexual indiscretions"
+            },
+            {
+                "s": "manic episode",
+                "r": "is distinguished from by",
+                "t": "duration"
+            },
+            {
+                "s": "manic episode",
+                "r": "lasts",
+                "t": "at least a week"
+            },
+            {
+                "s": "hypomanic episode",
+                "r": "lasts",
+                "t": "at least 4 consecutive days"
+            },
+            {
+                "s": "manic episode",
+                "r": "is characteristic of",
+                "t": "bipolar disorder"
+            }
+        ]
+    },
+    {
+        "title": "suicidal_ideation",
+        "fq": "what is suicidal ideation and what are its main characteristics?",
+        "ts": [
+            {
+                "s": "suicidal ideation",
+                "r": "are",
+                "t": "thoughts about or a preoccupation with killing oneself"
+            },
+            {
+                "s": "suicidal ideation",
+                "r": "is a symptom of",
+                "t": "major depressive episode"
+            },
+            {
+                "s": "suicidal ideation",
+                "r": "do not progress to",
+                "t": "attempted suicide"
+            }
+        ]
+    },
+    {
+        "title": "ataxia",
+        "fq": "what is ataxia and what are its causes and types?",
+        "ts": [
+            {
+                "s": "ataxia",
+                "r": "is the",
+                "t": "inability to perform coordinated voluntary movements"
+            },
+            {
+                "s": "ataxia",
+                "r": "may be seen as a",
+                "t": "symptom"
+            },
+            {
+                "s": "ataxia",
+                "r": "is a symptom of",
+                "t": "various disorders"
+            },
+            {
+                "s": "ataxia",
+                "r": "is a symptom of",
+                "t": "multiple sclerosis"
+            },
+            {
+                "s": "ataxia",
+                "r": "is a symptom of",
+                "t": "cerebral palsy"
+            },
+            {
+                "s": "ataxia",
+                "r": "can be",
+                "t": "heritable"
+            },
+            {
+                "s": "ataxia",
+                "r": "can be",
+                "t": "friedreich\u2019s ataxia"
+            },
+            {
+                "s": "ataxia",
+                "r": "can be",
+                "t": "acquired"
+            },
+            {
+                "s": "acquired",
+                "r": "acquired from",
+                "t": "injury affecting the nervous system"
+            },
+            {
+                "s": "acquired",
+                "r": "acquired from",
+                "t": "infection affecting the nervous system"
+            },
+            {
+                "s": "ataxia",
+                "r": "is called",
+                "t": "cerebellar ataxia"
+            },
+            {
+                "s": "cerebellar ataxia",
+                "r": "due to",
+                "t": "damage to the cerebellum"
+            },
+            {
+                "s": "ataxia",
+                "r": "is called",
+                "t": "sensory ataxia"
+            },
+            {
+                "s": "sensory ataxia",
+                "r": "due to",
+                "t": "loss of sensory feedback from the muscles and joints"
+            }
+        ]
+    },
+    {
+        "title": "personality_assessment",
+        "fq": "what is the relationship between personality traits and language use?",
+        "ts": [
+            {
+                "s": "language",
+                "r": "is used to study and assess",
+                "t": "personality"
+            },
+            {
+                "s": "language",
+                "r": "can be",
+                "t": "language from social media"
+            },
+            {
+                "s": "language",
+                "r": "can be",
+                "t": "written texts"
+            },
+            {
+                "s": "extraversion",
+                "r": "has been related to",
+                "t": "words referring to family"
+            },
+            {
+                "s": "extraversion",
+                "r": "has been related to",
+                "t": "social activities"
+            },
+            {
+                "s": "extraversion",
+                "r": "has been related to",
+                "t": "assertiveness"
+            },
+            {
+                "s": "agreeableness",
+                "r": "is identified with",
+                "t": "speeches that reflect people inclusion"
+            },
+            {
+                "s": "agreeableness",
+                "r": "is identified with",
+                "t": "words referring to family"
+            },
+            {
+                "s": "agreeableness",
+                "r": "is identified with",
+                "t": "interpersonal concern"
+            },
+            {
+                "s": "agreeableness",
+                "r": "is identified with",
+                "t": "altruism"
+            },
+            {
+                "s": "agreeableness",
+                "r": "is identified with",
+                "t": "modesty"
+            },
+            {
+                "s": "responsibility",
+                "r": "is shown by using",
+                "t": "words related to achievements"
+            },
+            {
+                "s": "responsibility",
+                "r": "is shown by using",
+                "t": "work"
+            },
+            {
+                "s": "openness to experience",
+                "r": "is not usually related to",
+                "t": "words of content"
+            },
+            {
+                "s": "openness to experience",
+                "r": "is related with the use of",
+                "t": "use of particular articles"
+            },
+            {
+                "s": "openness to experience",
+                "r": "is related with the use of",
+                "t": "prepositions"
+            }
+        ]
+    },
+    {
+        "title": "introversion",
+        "fq": "what is introversion and what are its main characteristics?",
+        "ts": [
+            {
+                "s": "introversion",
+                "r": "is an",
+                "t": "orientation toward the internal private world of one\u2019s self and one\u2019s inner thoughts and feelings"
+            },
+            {
+                "s": "orientation toward the internal private world of one\u2019s self and one\u2019s inner thoughts and feelings",
+                "r": "rather than toward",
+                "t": "outer world of people and things"
+            },
+            {
+                "s": "introversion",
+                "r": "is a",
+                "t": "broad personality trait"
+            },
+            {
+                "s": "introversion",
+                "r": "like",
+                "t": "extraversion"
+            },
+            {
+                "s": "introversion",
+                "r": "exists on a",
+                "t": "continuum of attitudes and behaviors"
+            },
+            {
+                "s": "introverts",
+                "r": "are relatively more",
+                "t": "withdrawn"
+            },
+            {
+                "s": "introverts",
+                "r": "are relatively more",
+                "t": "retiring"
+            },
+            {
+                "s": "introverts",
+                "r": "are relatively more",
+                "t": "reserved"
+            },
+            {
+                "s": "introverts",
+                "r": "are relatively more",
+                "t": "quiet"
+            },
+            {
+                "s": "introverts",
+                "r": "are relatively more",
+                "t": "deliberate"
+            },
+            {
+                "s": "introverts",
+                "r": "may tend to",
+                "t": "mute or guard expression of positive affect"
+            },
+            {
+                "s": "introverts",
+                "r": "may tend to adopt",
+                "t": "skeptical views or positions"
+            },
+            {
+                "s": "introverts",
+                "r": "may tend to",
+                "t": "prefer to work independently"
+            }
+        ]
+    },
+    {
+        "title": "extraversion",
+        "fq": "what is extraversion and what are its main characteristics?",
+        "ts": [
+            {
+                "s": "extraversion",
+                "r": "is one of the elements of",
+                "t": "big five and five-factor personality models"
+            },
+            {
+                "s": "extraversion",
+                "r": "is characterized by",
+                "t": "orientation of one\u2019s interests and energies toward the outer world of people and things"
+            },
+            {
+                "s": "orientation of one\u2019s interests and energies toward the outer world of people and things",
+                "r": "is toward",
+                "t": "outer world of people and things"
+            },
+            {
+                "s": "extraversion",
+                "r": "is a",
+                "t": "broad personality trait"
+            },
+            {
+                "s": "extraversion",
+                "r": "exists on a",
+                "t": "continuum of attitudes and behaviors"
+            },
+            {
+                "s": "extraverts",
+                "r": "are",
+                "t": "outgoing"
+            },
+            {
+                "s": "extraverts",
+                "r": "are",
+                "t": "gregarious"
+            },
+            {
+                "s": "extraverts",
+                "r": "are",
+                "t": "sociable"
+            },
+            {
+                "s": "extraverts",
+                "r": "are",
+                "t": "openly expressive"
+            },
+            {
+                "s": "extraversion",
+                "r": "is one of the dimensions in",
+                "t": "eysenck\u2019s dimensions"
+            }
+        ]
+    },
+    {
+        "title": "personality_trait",
+        "fq": "what is a personality trait and what are its main characteristics?",
+        "ts": [
+            {
+                "s": "personality trait",
+                "r": "is a",
+                "t": "relatively stable, consistent, and enduring internal characteristic"
+            },
+            {
+                "s": "personality trait",
+                "r": "is inferred from",
+                "t": "pattern of behaviors, attitudes, feelings, and habits"
+            },
+            {
+                "s": "pattern of behaviors, attitudes, feelings, and habits",
+                "r": "is in",
+                "t": "individual"
+            },
+            {
+                "s": "personality trait",
+                "r": "can be useful in",
+                "t": "summarizing, predicting, and explaining an individual\u2019s conduct"
+            },
+            {
+                "s": "personality trait theories",
+                "r": "includes",
+                "t": "allport\u2019s personality trait theory"
+            },
+            {
+                "s": "personality trait theories",
+                "r": "includes",
+                "t": "cattell\u2019s personality trait theory"
+            }
+        ]
+    },
+    {
+        "title": "longstanding_psycholinguistic_theory",
+        "fq": "how does personality influence the stages of language production?",
+        "ts": [
+            {
+                "s": "language production",
+                "r": "is produced in",
+                "t": "conceptualizing an idea to be expressed"
+            },
+            {
+                "s": "language production",
+                "r": "is produced in",
+                "t": "formulating a linguistic plan"
+            },
+            {
+                "s": "language production",
+                "r": "is produced in",
+                "t": "articulating the plan"
+            },
+            {
+                "s": "language production",
+                "r": "is produced in",
+                "t": "monitoring articulation"
+            },
+            {
+                "s": "personality",
+                "r": "is encoded in",
+                "t": "language"
+            },
+            {
+                "s": "personality",
+                "r": "involves",
+                "t": "particular thoughts and feelings that are most available to an individual"
+            },
+            {
+                "s": "primed thoughts and feelings",
+                "r": "will appear in",
+                "t": "language"
+            },
+            {
+                "s": "personality",
+                "r": "has a top-down influence on",
+                "t": "ideas that are conceptualized"
+            },
+            {
+                "s": "personality",
+                "r": "has a top-down influence on",
+                "t": "how ideas are put into words"
+            }
+        ]
+    },
+    {
+        "title": "personality_psychology",
+        "fq": "what is the big five factors model of personality and what are its main traits?",
+        "ts": [
+            {
+                "s": "personality psychology",
+                "r": "focuses on the study of",
+                "t": "individual differences"
+            },
+            {
+                "s": "personality psychology",
+                "r": "focuses on the study of",
+                "t": "psychological traits"
+            },
+            {
+                "s": "patterns of personality",
+                "r": "determine",
+                "t": "behavioral styles"
+            },
+            {
+                "s": "language",
+                "r": "is a useful way to access",
+                "t": "personality"
+            },
+            {
+                "s": "big five factors (bff) model",
+                "r": "is based on the premise that",
+                "t": "language"
+            },
+            {
+                "s": "language",
+                "r": "describes",
+                "t": "personality"
+            },
+            {
+                "s": "personality",
+                "r": "can be understood as the expression of",
+                "t": "neuroticism"
+            },
+            {
+                "s": "personality",
+                "r": "can be understood as the expression of",
+                "t": "extraversion"
+            },
+            {
+                "s": "personality",
+                "r": "can be understood as the expression of",
+                "t": "openness to experience"
+            },
+            {
+                "s": "personality",
+                "r": "can be understood as the expression of",
+                "t": "agreeableness"
+            },
+            {
+                "s": "personality",
+                "r": "can be understood as the expression of",
+                "t": "responsibility"
+            }
+        ]
+    },
+    {
+        "title": "attempted_suicide",
+        "fq": "what is attempted suicide and what are its risk and protective factors?",
+        "ts": [
+            {
+                "s": "attempted suicide",
+                "r": "is a",
+                "t": "deliberate but unsuccessful attempt to take one\u2019s own life"
+            },
+            {
+                "s": "older men",
+                "r": "are at an especially",
+                "t": "high risk for suicide"
+            },
+            {
+                "s": "childhood physical or sexual abuse",
+                "r": "has an association with",
+                "t": "death by suicide"
+            },
+            {
+                "s": "risk factors",
+                "r": "include",
+                "t": "hopelessness"
+            },
+            {
+                "s": "risk factors",
+                "r": "include",
+                "t": "heightened impulsivity"
+            },
+            {
+                "s": "risk factors",
+                "r": "include",
+                "t": "problem-solving deficits"
+            },
+            {
+                "s": "risk factors",
+                "r": "include",
+                "t": "perfectionism"
+            },
+            {
+                "s": "risk factors",
+                "r": "include",
+                "t": "family history of suicide"
+            },
+            {
+                "s": "risk factors",
+                "r": "include",
+                "t": "mental disorders"
+            },
+            {
+                "s": "mental disorders",
+                "r": "include",
+                "t": "depression"
+            },
+            {
+                "s": "mental disorders",
+                "r": "include",
+                "t": "bipolar disorder"
+            },
+            {
+                "s": "mental disorders",
+                "r": "include",
+                "t": "substance use disorders"
+            },
+            {
+                "s": "mental disorders",
+                "r": "include",
+                "t": "psychotic disorders"
+            },
+            {
+                "s": "protective factors",
+                "r": "include",
+                "t": "supportive social network or family"
+            },
+            {
+                "s": "attempted suicide",
+                "r": "is also called",
+                "t": "suicide attempt"
+            }
+        ]
+    },
+    {
+        "title": "bereavement_exclusion",
+        "fq": "what is the bereavement exclusion and how has it evolved in the dsm?",
+        "ts": [
+            {
+                "s": "dsm-iv-tr",
+                "r": "includes",
+                "t": "bereavement exclusion"
+            },
+            {
+                "s": "bereavement exclusion",
+                "r": "rules out as",
+                "t": "symptoms of a major depressive episode"
+            },
+            {
+                "s": "individual\u2019s responses to the death of a loved one",
+                "r": "includes",
+                "t": "sadness"
+            },
+            {
+                "s": "individual\u2019s responses to the death of a loved one",
+                "r": "are accompanied by",
+                "t": "suicidal ideation"
+            },
+            {
+                "s": "dsm-5",
+                "r": "replaced with a",
+                "t": "broader statement"
+            },
+            {
+                "s": "dsm-5-tr",
+                "r": "replaced with a",
+                "t": "broader statement"
+            },
+            {
+                "s": "broader statement",
+                "r": "is on the similarity between",
+                "t": "individual\u2019s responses to various types of significant loss"
+            },
+            {
+                "s": "broader statement",
+                "r": "is on the similarity between",
+                "t": "major depressive episode"
+            },
+            {
+                "s": "significant loss",
+                "r": "includes",
+                "t": "bereavement"
+            },
+            {
+                "s": "significant loss",
+                "r": "includes",
+                "t": "financial ruin"
+            },
+            {
+                "s": "significant loss",
+                "r": "includes",
+                "t": "illness"
+            },
+            {
+                "s": "individual\u2019s responses to various types of significant loss",
+                "r": "may co-occur with",
+                "t": "major depressive episode"
+            },
+            {
+                "s": "major depressive episode",
+                "r": "may co-occur with",
+                "t": "individual\u2019s responses to various types of significant loss"
+            }
+        ]
+    },
+    {
+        "title": "bipolar_disorder",
+        "fq": "what is bipolar disorder and what are its main subtypes?",
+        "ts": [
+            {
+                "s": "bipolar disorder",
+                "r": "is a",
+                "t": "mood disorders"
+            },
+            {
+                "s": "bipolar disorder",
+                "r": "in which symptoms of ... alternate",
+                "t": "mania"
+            },
+            {
+                "s": "bipolar disorder",
+                "r": "in which symptoms of ... alternate",
+                "t": "depression"
+            },
+            {
+                "s": "bipolar disorder",
+                "r": "includes",
+                "t": "bipolar i disorder"
+            },
+            {
+                "s": "bipolar disorder",
+                "r": "includes",
+                "t": "bipolar ii disorder"
+            },
+            {
+                "s": "bipolar disorder",
+                "r": "includes",
+                "t": "cyclothymic disorder"
+            },
+            {
+                "s": "bipolar i disorder",
+                "r": "fluctuates between",
+                "t": "mania"
+            },
+            {
+                "s": "bipolar i disorder",
+                "r": "fluctuates between",
+                "t": "hypomania"
+            },
+            {
+                "s": "bipolar i disorder",
+                "r": "fluctuates between",
+                "t": "major depressive episodes"
+            },
+            {
+                "s": "bipolar ii disorder",
+                "r": "fluctuates between",
+                "t": "major depressive episodes"
+            },
+            {
+                "s": "bipolar ii disorder",
+                "r": "fluctuates between",
+                "t": "hypomania"
+            },
+            {
+                "s": "manic-depressive illness",
+                "r": "was the former official name for",
+                "t": "bipolar disorder"
+            }
+        ]
+    },
+    {
+        "title": "pressured_speech",
+        "fq": "focus question: what is pressured speech?",
+        "ts": [
+            {
+                "s": "pressured speech",
+                "r": "is",
+                "t": "accelerated and sometimes uncontrolled speech"
+            },
+            {
+                "s": "pressured speech",
+                "r": "often occurs in the context of a",
+                "t": "hypomanic episode"
+            },
+            {
+                "s": "pressured speech",
+                "r": "often occurs in the context of a",
+                "t": "manic episode"
+            },
+            {
+                "s": "pressured speech",
+                "r": "is also called",
+                "t": "pressure of speech"
+            }
+        ]
+    },
+    {
+        "title": "flight_of_ideas",
+        "fq": "what is flight of ideas and what are its main characteristics?",
+        "ts": [
+            {
+                "s": "flight of ideas",
+                "r": "is a",
+                "t": "rapid, continuous succession of superficially related thoughts and ideas"
+            },
+            {
+                "s": "flight of ideas",
+                "r": "manifests as",
+                "t": "hurried speech"
+            },
+            {
+                "s": "hurried speech",
+                "r": "includes",
+                "t": "frequent abrupt shifts in topic"
+            },
+            {
+                "s": "flight of ideas",
+                "r": "is a symptom of",
+                "t": "manic episode"
+            },
+            {
+                "s": "flight of ideas",
+                "r": "is a",
+                "t": "disturbed thinking"
+            },
+            {
+                "s": "flight of ideas",
+                "r": "is seen in",
+                "t": "other disorders"
+            },
+            {
+                "s": "flight of ideas",
+                "r": "is seen in",
+                "t": "schizophrenia"
+            }
+        ]
+    },
+    {
+        "title": "hypomanic_episode",
+        "fq": "what is a hypomanic episode and what are its main characteristics?",
+        "ts": [
+            {
+                "s": "hypomanic episode",
+                "r": "is a",
+                "t": "period of elevated, expansive, or irritable mood"
+            },
+            {
+                "s": "hypomanic episode",
+                "r": "is accompanied by",
+                "t": "inflated self-esteem"
+            },
+            {
+                "s": "hypomanic episode",
+                "r": "is accompanied by",
+                "t": "decreased need for sleep"
+            },
+            {
+                "s": "hypomanic episode",
+                "r": "is accompanied by",
+                "t": "increased speech"
+            },
+            {
+                "s": "hypomanic episode",
+                "r": "is accompanied by",
+                "t": "racing thoughts"
+            },
+            {
+                "s": "hypomanic episode",
+                "r": "is accompanied by",
+                "t": "distractibility"
+            },
+            {
+                "s": "hypomanic episode",
+                "r": "is accompanied by",
+                "t": "increased activity or psychomotor agitation"
+            },
+            {
+                "s": "hypomanic episode",
+                "r": "is accompanied by",
+                "t": "increased involvement in risky activities"
+            },
+            {
+                "s": "increased involvement in risky activities",
+                "r": "includes",
+                "t": "buying sprees"
+            },
+            {
+                "s": "increased involvement in risky activities",
+                "r": "includes",
+                "t": "sexual indiscretions"
+            },
+            {
+                "s": "hypomanic episode",
+                "r": "is characteristic of",
+                "t": "bipolar ii disorder"
+            },
+            {
+                "s": "hypomanic symptoms",
+                "r": "are a feature of",
+                "t": "cyclothymic disorder"
+            },
+            {
+                "s": "hypomanic episode",
+                "r": "is also called",
+                "t": "hypomania"
+            }
+        ]
+    },
+    {
+        "title": "cyclothymic_disorder",
+        "fq": "what is cyclothymic disorder and what are its characteristics?",
+        "ts": [
+            {
+                "s": "cyclothymic disorder",
+                "r": "is a",
+                "t": "mood disorder"
+            },
+            {
+                "s": "cyclothymic disorder",
+                "r": "is characterized by",
+                "t": "periods of hypomanic symptoms and periods of depressive symptoms"
+            },
+            {
+                "s": "periods of hypomanic symptoms and periods of depressive symptoms",
+                "r": "occur over the course of",
+                "t": "at least 2 years"
+            },
+            {
+                "s": "number, duration, and severity of symptoms",
+                "r": "do not meet the full criteria for",
+                "t": "major depressive episode"
+            },
+            {
+                "s": "number, duration, and severity of symptoms",
+                "r": "do not meet the full criteria for",
+                "t": "hypomanic episode"
+            },
+            {
+                "s": "cyclothymic disorder",
+                "r": "is considered to be",
+                "t": "mild bipolar disorder"
+            },
+            {
+                "s": "cyclothymic disorder",
+                "r": "is also called",
+                "t": "cyclothymia"
+            }
+        ]
+    },
+    {
+        "title": "beck_depression_inventory",
+        "fq": "what is the beck depression inventory, what is its purpose, and how is it structured?",
+        "ts": [
+            {
+                "s": "beck depression inventory (bdi)",
+                "r": "is a",
+                "t": "self-report questionnaire"
+            },
+            {
+                "s": "beck depression inventory (bdi)",
+                "r": "designed to assess",
+                "t": "severity of depressive symptoms"
+            },
+            {
+                "s": "beck depression inventory (bdi)",
+                "r": "designed to assess",
+                "t": "adolescents"
+            },
+            {
+                "s": "beck depression inventory (bdi)",
+                "r": "designed to assess",
+                "t": "adults"
+            },
+            {
+                "s": "beck depression inventory (bdi)",
+                "r": "used in",
+                "t": "clinical settings"
+            },
+            {
+                "s": "beck depression inventory (bdi)",
+                "r": "used in",
+                "t": "research settings"
+            },
+            {
+                "s": "beck depression inventory (bdi)",
+                "r": "consists of",
+                "t": "21 item groups"
+            },
+            {
+                "s": "21 item groups",
+                "r": "includes",
+                "t": "four statements of increasing severity"
+            },
+            {
+                "s": "21 item groups",
+                "r": "reflects a",
+                "t": "symptom or attitude associated with depression"
+            },
+            {
+                "s": "symptom or attitude associated with depression",
+                "r": "includes",
+                "t": "loss of energy"
+            },
+            {
+                "s": "symptom or attitude associated with depression",
+                "r": "includes",
+                "t": "self-dislike"
+            },
+            {
+                "s": "four statements of increasing severity",
+                "r": "has a",
+                "t": "numerical value from 0 to 3"
+            },
+            {
+                "s": "beck depression inventory (bdi)",
+                "r": "was published by",
+                "t": "aaron t. beck and colleagues"
+            }
+        ]
+    },
+    {
+        "title": "schizophrenia",
+        "fq": "what is schizophrenia and what are its main characteristics?",
+        "ts": [
+            {
+                "s": "schizophrenia",
+                "r": "is a",
+                "t": "psychotic disorder"
+            },
+            {
+                "s": "schizophrenia",
+                "r": "is characterized by",
+                "t": "disturbances in thinking (cognition)"
+            },
+            {
+                "s": "schizophrenia",
+                "r": "is characterized by",
+                "t": "emotional responsiveness"
+            },
+            {
+                "s": "schizophrenia",
+                "r": "is characterized by",
+                "t": "behavior"
+            },
+            {
+                "s": "schizophrenia",
+                "r": "has an age of onset",
+                "t": "late teens and mid-30s"
+            }
+        ]
+    },
+    {
+        "title": "dementia_praecox",
+        "fq": "what is dementia praecox and what are its main characteristics?",
+        "ts": [
+            {
+                "s": "dementia praecox",
+                "r": "is a",
+                "t": "progressively deteriorating psychotic disorder"
+            },
+            {
+                "s": "dementia praecox",
+                "r": "marked by",
+                "t": "severe, incurable cognitive disintegration"
+            },
+            {
+                "s": "dementia praecox",
+                "r": "beginning in",
+                "t": "early adulthood"
+            }
+        ]
+    },
+    {
+        "title": "fundamental_symptoms",
+        "fq": "what are the four primary symptoms of schizophrenia?",
+        "ts": [
+            {
+                "s": "primary symptoms of schizophrenia",
+                "r": "are",
+                "t": "abnormal associations in thinking"
+            },
+            {
+                "s": "primary symptoms of schizophrenia",
+                "r": "are",
+                "t": "autistic behavior and thinking"
+            },
+            {
+                "s": "primary symptoms of schizophrenia",
+                "r": "are",
+                "t": "abnormal affect"
+            },
+            {
+                "s": "primary symptoms of schizophrenia",
+                "r": "are",
+                "t": "ambivalence"
+            },
+            {
+                "s": "abnormal affect",
+                "r": "including",
+                "t": "flat affect"
+            },
+            {
+                "s": "abnormal affect",
+                "r": "including",
+                "t": "inappropriate affect"
+            }
+        ]
+    },
+    {
+        "title": "apathy",
+        "fq": "what is apathy and what is it associated with?",
+        "ts": [
+            {
+                "s": "apathy",
+                "r": "is a",
+                "t": "lack of motivation or goal-directed behavior"
+            },
+            {
+                "s": "apathy",
+                "r": "is a",
+                "t": "indifference to one's surroundings"
+            },
+            {
+                "s": "apathy",
+                "r": "is commonly associated with",
+                "t": "severe depression"
+            },
+            {
+                "s": "apathy",
+                "r": "is commonly associated with",
+                "t": "schizophrenia"
+            },
+            {
+                "s": "apathy",
+                "r": "is a major behavioral symptom in",
+                "t": "alzheimer's disease"
+            },
+            {
+                "s": "apathy",
+                "r": "is a major behavioral symptom in",
+                "t": "parkinson's disease"
+            },
+            {
+                "s": "apathy",
+                "r": "is a major behavioral symptom in",
+                "t": "neurodegenerative disorders"
+            }
+        ]
+    },
+    {
+        "title": "alzheimers_disease",
+        "fq": "what is alzheimer's disease, what are its features, and what are its risk factors?",
+        "ts": [
+            {
+                "s": "alzheimer's disease",
+                "r": "is a",
+                "t": "progressive neurodegenerative disease"
+            },
+            {
+                "s": "alzheimer's disease",
+                "r": "is characterized by",
+                "t": "cortical atrophy"
+            },
+            {
+                "s": "alzheimer's disease",
+                "r": "is characterized by",
+                "t": "neuronal death"
+            },
+            {
+                "s": "alzheimer's disease",
+                "r": "is characterized by",
+                "t": "synapse loss"
+            },
+            {
+                "s": "alzheimer's disease",
+                "r": "is characterized by",
+                "t": "accumulation of amyloid plaques"
+            },
+            {
+                "s": "alzheimer's disease",
+                "r": "is characterized by",
+                "t": "neurofibrillary tangles"
+            },
+            {
+                "s": "alzheimer's disease",
+                "r": "causing",
+                "t": "dementia"
+            },
+            {
+                "s": "alzheimer's disease",
+                "r": "causing",
+                "t": "significant decline in functioning"
+            },
+            {
+                "s": "early features",
+                "r": "include",
+                "t": "deficits in memory"
+            },
+            {
+                "s": "deficits in memory",
+                "r": "such as",
+                "t": "rapid forgetting of new information"
+            },
+            {
+                "s": "deficits in memory",
+                "r": "such as",
+                "t": "impaired recall"
+            },
+            {
+                "s": "deficits in memory",
+                "r": "such as",
+                "t": "impaired recognition"
+            },
+            {
+                "s": "early features",
+                "r": "include",
+                "t": "anomia"
+            },
+            {
+                "s": "early features",
+                "r": "include",
+                "t": "executive dysfunction"
+            },
+            {
+                "s": "early features",
+                "r": "include",
+                "t": "depressive symptoms"
+            },
+            {
+                "s": "early features",
+                "r": "include",
+                "t": "subtle personality changes"
+            },
+            {
+                "s": "subtle personality changes",
+                "r": "such as",
+                "t": "decreased energy"
+            },
+            {
+                "s": "subtle personality changes",
+                "r": "such as",
+                "t": "social withdrawal"
+            },
+            {
+                "s": "subtle personality changes",
+                "r": "such as",
+                "t": "indifference"
+            },
+            {
+                "s": "subtle personality changes",
+                "r": "such as",
+                "t": "impulsivity"
+            },
+            {
+                "s": "disease progression",
+                "r": "includes",
+                "t": "global deterioration of cognitive capacities"
+            },
+            {
+                "s": "global deterioration of cognitive capacities",
+                "r": "including",
+                "t": "intellectual decline"
+            },
+            {
+                "s": "global deterioration of cognitive capacities",
+                "r": "including",
+                "t": "aphasia"
+            },
+            {
+                "s": "global deterioration of cognitive capacities",
+                "r": "including",
+                "t": "agnosia"
+            },
+            {
+                "s": "global deterioration of cognitive capacities",
+                "r": "including",
+                "t": "apraxia"
+            },
+            {
+                "s": "disease progression",
+                "r": "including",
+                "t": "behavioral features"
+            },
+            {
+                "s": "behavioral features",
+                "r": "including",
+                "t": "apathy"
+            },
+            {
+                "s": "behavioral features",
+                "r": "including",
+                "t": "emotional blunting"
+            },
+            {
+                "s": "behavioral features",
+                "r": "including",
+                "t": "mood-dependent delusions"
+            },
+            {
+                "s": "behavioral features",
+                "r": "including",
+                "t": "decreased sleep"
+            },
+            {
+                "s": "behavioral features",
+                "r": "including",
+                "t": "decreased appetite"
+            },
+            {
+                "s": "behavioral features",
+                "r": "including",
+                "t": "increased motor activity"
+            },
+            {
+                "s": "increased motor activity",
+                "r": "such as",
+                "t": "restlessness"
+            },
+            {
+                "s": "increased motor activity",
+                "r": "such as",
+                "t": "wandering"
+            },
+            {
+                "s": "major risk factors",
+                "r": "include",
+                "t": "advanced age"
+            },
+            {
+                "s": "major risk factors",
+                "r": "include",
+                "t": "family history of the disease"
+            },
+            {
+                "s": "major risk factors",
+                "r": "include",
+                "t": "genetic factors"
+            },
+            {
+                "s": "genetic factors",
+                "r": "presence of",
+                "t": "apoe4 allele"
+            },
+            {
+                "s": "apoe4 allele",
+                "r": "is a",
+                "t": "apolipoprotein e"
+            },
+            {
+                "s": "apoe4 allele",
+                "r": "on",
+                "t": "chromosome 19"
+            }
+        ]
+    },
+    {
+        "title": "apolipoprotein_e",
+        "fq": "what is apolipoprotein e and how is it related to alzheimer's disease?",
+        "ts": [
+            {
+                "s": "apolipoprotein e (apoe)",
+                "r": "is a",
+                "t": "protein"
+            },
+            {
+                "s": "apolipoprotein e (apoe)",
+                "r": "may help break down",
+                "t": "beta-amyloid"
+            },
+            {
+                "s": "apoe4 allele",
+                "r": "is a form of",
+                "t": "apoe gene"
+            },
+            {
+                "s": "apoe4 allele",
+                "r": "are more likely to develop",
+                "t": "alzheimer's disease"
+            },
+            {
+                "s": "apoe4 allele",
+                "r": "are more likely to develop",
+                "t": "conditions that damage the nervous system"
+            }
+        ]
+    },
+    {
+        "title": "beta_amyloid",
+        "fq": "what is beta-amyloid and how does it contribute to alzheimer's disease?",
+        "ts": [
+            {
+                "s": "beta-amyloid (\u03b2-amyloid)",
+                "r": "is a",
+                "t": "protein"
+            },
+            {
+                "s": "beta-amyloid (\u03b2-amyloid)",
+                "r": "accumulates in",
+                "t": "brains of patients with alzheimer's disease"
+            },
+            {
+                "s": "beta-amyloid (\u03b2-amyloid)",
+                "r": "accumulates via",
+                "t": "aberrant processing"
+            },
+            {
+                "s": "aberrant processing",
+                "r": "of",
+                "t": "amyloid precursor protein (app)"
+            },
+            {
+                "s": "beta-amyloid (\u03b2-amyloid)",
+                "r": "forms",
+                "t": "amyloid plaques"
+            },
+            {
+                "s": "beta-amyloid (\u03b2-amyloid)",
+                "r": "contributing to",
+                "t": "neuronal impairment"
+            },
+            {
+                "s": "beta-amyloid (\u03b2-amyloid)",
+                "r": "contributing to",
+                "t": "neuronal loss"
+            }
+        ]
+    },
+    {
+        "title": "amyloid_plaque",
+        "fq": "what is amyloid plaque and what are its characteristics?",
+        "ts": [
+            {
+                "s": "amyloid plaque",
+                "r": "is a",
+                "t": "clump of beta-amyloid protein surrounded by degenerated dendrites"
+            },
+            {
+                "s": "amyloid plaque",
+                "r": "surrounded by",
+                "t": "degenerated dendrites"
+            },
+            {
+                "s": "amyloid plaque",
+                "r": "is particularly associated with",
+                "t": "symptoms of alzheimer's disease"
+            },
+            {
+                "s": "increased concentration of plaques",
+                "r": "is correlated with",
+                "t": "severity of dementia"
+            },
+            {
+                "s": "amyloid plaque",
+                "r": "is also called",
+                "t": "neuritic plaque"
+            },
+            {
+                "s": "amyloid plaque",
+                "r": "is also called",
+                "t": "senile plaque"
+            }
+        ]
+    },
+    {
+        "title": "anomia",
+        "fq": "what is anomia and how is it related to aphasia?",
+        "ts": [
+            {
+                "s": "anomia",
+                "r": "is",
+                "t": "loss or impairment of the ability to name objects"
+            },
+            {
+                "s": "aphasia",
+                "r": "exhibit",
+                "t": "anomia"
+            },
+            {
+                "s": "naming difficulty",
+                "r": "is a measure of",
+                "t": "aphasia severity"
+            }
+        ]
+    },
+    {
+        "title": "aphasia",
+        "fq": "what is aphasia, what causes it, and what are its characteristics and types?",
+        "ts": [
+            {
+                "s": "aphasia",
+                "r": "is an",
+                "t": "acquired language impairment"
+            },
+            {
+                "s": "acquired language impairment",
+                "r": "results from",
+                "t": "brain damage"
+            },
+            {
+                "s": "brain damage",
+                "r": "is typically in",
+                "t": "left hemisphere"
+            },
+            {
+                "s": "brain damage",
+                "r": "include",
+                "t": "stroke"
+            },
+            {
+                "s": "brain damage",
+                "r": "include",
+                "t": "brain tumors"
+            },
+            {
+                "s": "brain damage",
+                "r": "include",
+                "t": "cortical degenerative disorders"
+            },
+            {
+                "s": "cortical degenerative disorders",
+                "r": "include",
+                "t": "alzheimer\u2019s disease"
+            },
+            {
+                "s": "fluent aphasias",
+                "r": "are associated with",
+                "t": "posterior lesions"
+            },
+            {
+                "s": "posterior lesions",
+                "r": "spare",
+                "t": "cortical regions critical for motor control of speech"
+            },
+            {
+                "s": "nonfluent aphasias",
+                "r": "are associated with",
+                "t": "anterior lesions"
+            },
+            {
+                "s": "anterior lesions",
+                "r": "compromise",
+                "t": "motor and premotor cortical regions involved in speech production"
+            },
+            {
+                "s": "types of aphasia",
+                "r": "include",
+                "t": "anomic aphasia"
+            },
+            {
+                "s": "types of aphasia",
+                "r": "include",
+                "t": "broca\u2019s aphasia"
+            },
+            {
+                "s": "types of aphasia",
+                "r": "include",
+                "t": "conduction aphasia"
+            },
+            {
+                "s": "types of aphasia",
+                "r": "include",
+                "t": "global aphasia"
+            },
+            {
+                "s": "types of aphasia",
+                "r": "include",
+                "t": "mixed transcortical aphasia"
+            },
+            {
+                "s": "types of aphasia",
+                "r": "include",
+                "t": "transcortical motor aphasia"
+            },
+            {
+                "s": "types of aphasia",
+                "r": "include",
+                "t": "transcortical sensory aphasia"
+            },
+            {
+                "s": "types of aphasia",
+                "r": "include",
+                "t": "wernicke\u2019s aphasia"
+            }
+        ]
+    },
+    {
+        "title": "transcortical_motor_aphasia",
+        "fq": "what is transcortical motor aphasia (tma) and what causes it?",
+        "ts": [
+            {
+                "s": "transcortical motor aphasia (tma)",
+                "r": "is a form of",
+                "t": "aphasia"
+            },
+            {
+                "s": "transcortical motor aphasia (tma)",
+                "r": "cannot",
+                "t": "initiate speech"
+            },
+            {
+                "s": "transcortical motor aphasia (tma)",
+                "r": "can",
+                "t": "repeat words"
+            },
+            {
+                "s": "transcortical motor aphasia (tma)",
+                "r": "is caused by",
+                "t": "lesion"
+            },
+            {
+                "s": "lesion",
+                "r": "is in front of",
+                "t": "broca's area"
+            }
+        ]
+    },
+    {
+        "title": "brocas_area",
+        "fq": "what is broca's area, where is it located, and what is its function?",
+        "ts": [
+            {
+                "s": "broca's area",
+                "r": "is a region of",
+                "t": "region of the posterior portion of the inferior frontal convolution of a cerebral hemisphere"
+            },
+            {
+                "s": "broca's area",
+                "r": "is associated with",
+                "t": "production of speech"
+            },
+            {
+                "s": "broca's area",
+                "r": "is located on",
+                "t": "left hemisphere"
+            },
+            {
+                "s": "broca's area",
+                "r": "was studied by",
+                "t": "paul broca"
+            },
+            {
+                "s": "broca's area",
+                "r": "was researched by",
+                "t": "paul broca"
+            }
+        ]
+    },
+    {
+        "title": "wenickes_aphasia",
+        "fq": "what is wernicke's aphasia, what are its characteristics, and what causes it?",
+        "ts": [
+            {
+                "s": "wernicke's aphasia",
+                "r": "is the",
+                "t": "loss of the ability to comprehend sounds or speech"
+            },
+            {
+                "s": "loss of the ability to comprehend sounds or speech",
+                "r": "in particular",
+                "t": "understand or repeat spoken language"
+            },
+            {
+                "s": "loss of the ability to comprehend sounds or speech",
+                "r": "in particular",
+                "t": "name objects or qualities"
+            },
+            {
+                "s": "wernicke's aphasia",
+                "r": "is a",
+                "t": "fluent aphasia"
+            },
+            {
+                "s": "fluent aphasia",
+                "r": "in which",
+                "t": "speech output is typically distorted, incorrect, or inappropriate"
+            },
+            {
+                "s": "wernicke's aphasia",
+                "r": "is a result of",
+                "t": "brain damage"
+            },
+            {
+                "s": "brain damage",
+                "r": "typically in",
+                "t": "left posterior lateral temporal lobe"
+            },
+            {
+                "s": "wernicke's aphasia",
+                "r": "may be associated with",
+                "t": "disorders of communication"
+            },
+            {
+                "s": "disorders of communication",
+                "r": "including",
+                "t": "alexia"
+            },
+            {
+                "s": "disorders of communication",
+                "r": "including",
+                "t": "acalculia"
+            },
+            {
+                "s": "disorders of communication",
+                "r": "including",
+                "t": "agraphia"
+            }
+        ]
+    },
+    {
+        "title": "alexia",
+        "fq": "what is alexia and what are its characteristics?",
+        "ts": [
+            {
+                "s": "alexia",
+                "r": "is the",
+                "t": "loss or impairment of the ability to comprehend written or printed words"
+            },
+            {
+                "s": "alexia",
+                "r": "is a result of",
+                "t": "lesions"
+            },
+            {
+                "s": "alexia",
+                "r": "is a result of",
+                "t": "stroke"
+            },
+            {
+                "s": "alexia",
+                "r": "is a result of",
+                "t": "neurological damage or disorder"
+            },
+            {
+                "s": "alexia",
+                "r": "is generally seen in",
+                "t": "aphasia"
+            },
+            {
+                "s": "alexia",
+                "r": "is called",
+                "t": "pure alexia"
+            },
+            {
+                "s": "alexia",
+                "r": "is called",
+                "t": "alexia without agraphia"
+            },
+            {
+                "s": "alexia",
+                "r": "is called",
+                "t": "agnosic alexia"
+            },
+            {
+                "s": "pure alexia",
+                "r": "is characterized by",
+                "t": "reading impairment"
+            },
+            {
+                "s": "pure alexia",
+                "r": "is characterized by",
+                "t": "preserved language production"
+            },
+            {
+                "s": "pure alexia",
+                "r": "is characterized by",
+                "t": "auditory comprehension"
+            },
+            {
+                "s": "pure alexia",
+                "r": "can",
+                "t": "ability to write"
+            },
+            {
+                "s": "pure alexia",
+                "r": "are unable to",
+                "t": "inability to read what they have written"
+            },
+            {
+                "s": "pure alexia",
+                "r": "is also called",
+                "t": "word blindness"
+            }
+        ]
+    },
+    {
+        "title": "acalculia",
+        "fq": "what is acalculia and how does it differ from dyscalculia?",
+        "ts": [
+            {
+                "s": "acalculia",
+                "r": "is",
+                "t": "loss of the ability to perform simple arithmetic operations"
+            },
+            {
+                "s": "acalculia",
+                "r": "results from",
+                "t": "brain injury or disease"
+            },
+            {
+                "s": "brain injury or disease",
+                "r": "is usually to",
+                "t": "parietal lobe"
+            },
+            {
+                "s": "acalculia",
+                "r": "is an",
+                "t": "acquired condition"
+            },
+            {
+                "s": "dyscalculia",
+                "r": "is",
+                "t": "developmental"
+            }
+        ]
+    },
+    {
+        "title": "dyscalculia",
+        "fq": "what is dyscalculia and how does it differ from acalculia?",
+        "ts": [
+            {
+                "s": "dyscalculia",
+                "r": "is an",
+                "t": "impaired ability to perform simple arithmetic operations"
+            },
+            {
+                "s": "impaired ability to perform simple arithmetic operations",
+                "r": "results from a",
+                "t": "congenital deficit"
+            },
+            {
+                "s": "dyscalculia",
+                "r": "is a",
+                "t": "developmental condition"
+            },
+            {
+                "s": "acalculia",
+                "r": "is a",
+                "t": "acquired"
+            }
+        ]
+    },
+    {
+        "title": "parietal_lobe",
+        "fq": "what is the parietal lobe, where is it located, and what are its functions?",
+        "ts": [
+            {
+                "s": "parietal lobe",
+                "r": "is one of the",
+                "t": "subdivisions of each cerebral hemisphere"
+            },
+            {
+                "s": "parietal lobe",
+                "r": "occupies the",
+                "t": "upper central area of each hemisphere"
+            },
+            {
+                "s": "parietal lobe",
+                "r": "is behind the",
+                "t": "frontal lobe"
+            },
+            {
+                "s": "parietal lobe",
+                "r": "is ahead of the",
+                "t": "occipital lobe"
+            },
+            {
+                "s": "parietal lobe",
+                "r": "is above the",
+                "t": "temporal lobe"
+            },
+            {
+                "s": "parietal lobe",
+                "r": "participate in",
+                "t": "somatosensory activities"
+            },
+            {
+                "s": "somatosensory activities",
+                "r": "include",
+                "t": "discrimination of size, shape, and texture of objects"
+            },
+            {
+                "s": "parietal lobe",
+                "r": "participate in",
+                "t": "visual activities"
+            },
+            {
+                "s": "visual activities",
+                "r": "include",
+                "t": "visually guided actions"
+            },
+            {
+                "s": "parietal lobe",
+                "r": "participate in",
+                "t": "auditory activities"
+            },
+            {
+                "s": "auditory activities",
+                "r": "include",
+                "t": "speech perception"
+            }
+        ]
+    },
+    {
+        "title": "frontal_lobe",
+        "fq": "what is the frontal lobe and what are its functions?",
+        "ts": [
+            {
+                "s": "frontal lobe",
+                "r": "is one of",
+                "t": "four main lobes"
+            },
+            {
+                "s": "frontal lobe",
+                "r": "is a lobe of",
+                "t": "cerebral hemisphere"
+            },
+            {
+                "s": "frontal lobe",
+                "r": "lies in front of",
+                "t": "central sulcus"
+            },
+            {
+                "s": "frontal lobe",
+                "r": "is concerned with",
+                "t": "motor functions"
+            },
+            {
+                "s": "frontal lobe",
+                "r": "is concerned with",
+                "t": "higher order executive functions"
+            }
+        ]
+    },
+    {
+        "title": "temporal_lobe",
+        "fq": "what is the temporal lobe and what are its functions?",
+        "ts": [
+            {
+                "s": "temporal lobe",
+                "r": "is one of the",
+                "t": "cerebral hemisphere"
+            },
+            {
+                "s": "temporal lobe",
+                "r": "lies below the",
+                "t": "lateral sulcus"
+            },
+            {
+                "s": "temporal lobe",
+                "r": "contains the",
+                "t": "auditory projection areas"
+            },
+            {
+                "s": "temporal lobe",
+                "r": "contains the",
+                "t": "auditory association areas"
+            },
+            {
+                "s": "temporal lobe",
+                "r": "contains the",
+                "t": "higher order visual processing areas"
+            },
+            {
+                "s": "medial temporal lobe",
+                "r": "contains regions important for",
+                "t": "memory formation"
+            }
+        ]
+    },
+    {
+        "title": "brain",
+        "fq": "what is the brain, what are its characteristics, and how does it develop?",
+        "ts": [
+            {
+                "s": "brain",
+                "r": "is the",
+                "t": "enlarged, anterior part of the central nervous system within the skull"
+            },
+            {
+                "s": "young adult human brain",
+                "r": "weighs about",
+                "t": "1,450 g"
+            },
+            {
+                "s": "outer layer",
+                "r": "contains",
+                "t": "10 billion nerve cells"
+            },
+            {
+                "s": "cerebral cortex",
+                "r": "contains",
+                "t": "10 billion nerve cells"
+            },
+            {
+                "s": "brain",
+                "r": "develops by",
+                "t": "differentiation of the embryonic neural tube"
+            },
+            {
+                "s": "differentiation of the embryonic neural tube",
+                "r": "along",
+                "t": "anterior\u2013posterior axis"
+            },
+            {
+                "s": "differentiation of the embryonic neural tube",
+                "r": "to form",
+                "t": "forebrain"
+            },
+            {
+                "s": "differentiation of the embryonic neural tube",
+                "r": "to form",
+                "t": "midbrain"
+            },
+            {
+                "s": "differentiation of the embryonic neural tube",
+                "r": "to form",
+                "t": "hindbrain"
+            },
+            {
+                "s": "three main regions",
+                "r": "can be subdivided on the basis of",
+                "t": "anatomical and functional criteria"
+            },
+            {
+                "s": "cortical tissue",
+                "r": "is concentrated in",
+                "t": "forebrain"
+            },
+            {
+                "s": "midbrain",
+                "r": "are considered together as",
+                "t": "brainstem"
+            },
+            {
+                "s": "hindbrain",
+                "r": "are considered together as",
+                "t": "brainstem"
+            },
+            {
+                "s": "brain",
+                "r": "is also called",
+                "t": "encephalon"
+            }
+        ]
+    },
+    {
+        "title": "central_nervous_system",
+        "fq": "what is the central nervous system and what are its functions?",
+        "ts": [
+            {
+                "s": "central nervous system (cns)",
+                "r": "is the entire complex of",
+                "t": "neurons"
+            },
+            {
+                "s": "central nervous system (cns)",
+                "r": "is the entire complex of",
+                "t": "axons"
+            },
+            {
+                "s": "central nervous system (cns)",
+                "r": "is the entire complex of",
+                "t": "supporting tissue"
+            },
+            {
+                "s": "neurons",
+                "r": "constitute",
+                "t": "brain"
+            },
+            {
+                "s": "neurons",
+                "r": "constitute",
+                "t": "spinal cord"
+            },
+            {
+                "s": "axons",
+                "r": "constitute",
+                "t": "brain"
+            },
+            {
+                "s": "axons",
+                "r": "constitute",
+                "t": "spinal cord"
+            },
+            {
+                "s": "supporting tissue",
+                "r": "constitute",
+                "t": "brain"
+            },
+            {
+                "s": "supporting tissue",
+                "r": "constitute",
+                "t": "spinal cord"
+            },
+            {
+                "s": "central nervous system (cns)",
+                "r": "is primarily involved in",
+                "t": "mental activities"
+            },
+            {
+                "s": "central nervous system (cns)",
+                "r": "is primarily involved in",
+                "t": "coordinating incoming sensory messages"
+            },
+            {
+                "s": "central nervous system (cns)",
+                "r": "is primarily involved in",
+                "t": "integrating incoming sensory messages"
+            },
+            {
+                "s": "central nervous system (cns)",
+                "r": "coordinating",
+                "t": "outgoing motor messages"
+            },
+            {
+                "s": "central nervous system (cns)",
+                "r": "integrating",
+                "t": "outgoing motor messages"
+            }
+        ]
+    },
+    {
+        "title": "axon",
+        "fq": "what is an axon, what is its structure, and what is its function?",
+        "ts": [
+            {
+                "s": "axon",
+                "r": "is the",
+                "t": "long, thin, hollow, cylindrical extension of a neuron"
+            },
+            {
+                "s": "axon",
+                "r": "carries",
+                "t": "nerve impulse"
+            },
+            {
+                "s": "nerve impulse",
+                "r": "away from",
+                "t": "cell body"
+            },
+            {
+                "s": "axon",
+                "r": "branches",
+                "t": "branch"
+            },
+            {
+                "s": "axon",
+                "r": "may be surrounded by",
+                "t": "myelin sheath"
+            },
+            {
+                "s": "branch",
+                "r": "ends in",
+                "t": "terminal button"
+            },
+            {
+                "s": "terminal button",
+                "r": "is the",
+                "t": "synaptic bouton"
+            },
+            {
+                "s": "terminal button",
+                "r": "is the",
+                "t": "synaptic knob"
+            },
+            {
+                "s": "nerve impulse",
+                "r": "is transmitted from",
+                "t": "terminal button"
+            },
+            {
+                "s": "nerve impulse",
+                "r": "through discharge of",
+                "t": "neurotransmitter"
+            },
+            {
+                "s": "nerve impulse",
+                "r": "across",
+                "t": "synapse"
+            },
+            {
+                "s": "nerve impulse",
+                "r": "to",
+                "t": "neighboring neuron"
+            }
+        ]
+    },
+    {
+        "title": "neuron",
+        "fq": "what is a neuron, what are its components, and how is it classified?",
+        "ts": [
+            {
+                "s": "neuron",
+                "r": "is the",
+                "t": "basic cellular unit of the nervous system"
+            },
+            {
+                "s": "neuron",
+                "r": "is also called",
+                "t": "neurone"
+            },
+            {
+                "s": "neuron",
+                "r": "is composed of",
+                "t": "cell body"
+            },
+            {
+                "s": "neuron",
+                "r": "is composed of",
+                "t": "dendrites"
+            },
+            {
+                "s": "dendrites",
+                "r": "receive",
+                "t": "incoming nerve signals"
+            },
+            {
+                "s": "neuron",
+                "r": "is composed of",
+                "t": "axon"
+            },
+            {
+                "s": "axon",
+                "r": "conducts",
+                "t": "nerve impulses"
+            },
+            {
+                "s": "nerve impulses",
+                "r": "to",
+                "t": "axon terminal"
+            },
+            {
+                "s": "axon terminal",
+                "r": "transmits",
+                "t": "nerve impulses"
+            },
+            {
+                "s": "nerve impulses",
+                "r": "to",
+                "t": "neuron"
+            },
+            {
+                "s": "nerve impulses",
+                "r": "to",
+                "t": "effector organs"
+            },
+            {
+                "s": "effector organs",
+                "r": "include",
+                "t": "muscles"
+            },
+            {
+                "s": "effector organs",
+                "r": "include",
+                "t": "glands"
+            },
+            {
+                "s": "nerve impulses",
+                "r": "via",
+                "t": "synapses"
+            },
+            {
+                "s": "nerve impulses",
+                "r": "via",
+                "t": "neuromuscular junctions"
+            },
+            {
+                "s": "neuron",
+                "r": "can be classified by",
+                "t": "classification of neurons by function"
+            },
+            {
+                "s": "classification of neurons by function",
+                "r": "include",
+                "t": "motor neurons"
+            },
+            {
+                "s": "classification of neurons by function",
+                "r": "include",
+                "t": "sensory neurons"
+            },
+            {
+                "s": "classification of neurons by function",
+                "r": "include",
+                "t": "interneurons"
+            },
+            {
+                "s": "neuron",
+                "r": "can be classified by",
+                "t": "classification of neurons by structure"
+            },
+            {
+                "s": "classification of neurons by structure",
+                "r": "include",
+                "t": "unipolar neurons"
+            },
+            {
+                "s": "classification of neurons by structure",
+                "r": "include",
+                "t": "bipolar neurons"
+            },
+            {
+                "s": "classification of neurons by structure",
+                "r": "include",
+                "t": "multipolar neurons"
+            },
+            {
+                "s": "vertebrate neurons",
+                "r": "are surrounded by",
+                "t": "myelin sheath"
+            },
+            {
+                "s": "neuron",
+                "r": "possess",
+                "t": "capacity to modify structure and function"
+            },
+            {
+                "s": "capacity to modify structure and function",
+                "r": "is based on",
+                "t": "information and stimuli from immediate environment"
+            },
+            {
+                "s": "neuron",
+                "r": "is also called",
+                "t": "nerve cell"
+            }
+        ]
+    },
+    {
+        "title": "cerebral_cortex",
+        "fq": "what is the cerebral cortex, what does it consist of, and how is it organized?",
+        "ts": [
+            {
+                "s": "cerebral cortex",
+                "r": "is the",
+                "t": "layer of gray matter"
+            },
+            {
+                "s": "cerebral cortex",
+                "r": "covers the",
+                "t": "outside of the cerebral hemispheres"
+            },
+            {
+                "s": "cerebral cortex",
+                "r": "is associated with",
+                "t": "higher cognitive functions"
+            },
+            {
+                "s": "higher cognitive functions",
+                "r": "such as",
+                "t": "language"
+            },
+            {
+                "s": "higher cognitive functions",
+                "r": "such as",
+                "t": "learning"
+            },
+            {
+                "s": "higher cognitive functions",
+                "r": "such as",
+                "t": "perception"
+            },
+            {
+                "s": "higher cognitive functions",
+                "r": "such as",
+                "t": "planning"
+            },
+            {
+                "s": "cerebral cortex",
+                "r": "consists mostly of",
+                "t": "neocortex"
+            },
+            {
+                "s": "neocortex",
+                "r": "has",
+                "t": "six main layers of cells"
+            },
+            {
+                "s": "six main layers of cells",
+                "r": "are known as",
+                "t": "cortical layers"
+            },
+            {
+                "s": "cytoarchitecture of the layers",
+                "r": "led to the recognition of",
+                "t": "distinct areas"
+            },
+            {
+                "s": "distinct areas",
+                "r": "are called",
+                "t": "brodmann's areas"
+            },
+            {
+                "s": "brodmann's areas",
+                "r": "are known to serve",
+                "t": "different functions"
+            }
+        ]
+    },
+    {
+        "title": "neural_tube",
+        "fq": "what is the neural tube, how does it develop, and what are neural tube defects?",
+        "ts": [
+            {
+                "s": "neural tube",
+                "r": "is a structure formed during",
+                "t": "early development of an embryo"
+            },
+            {
+                "s": "neural tube",
+                "r": "is formed when",
+                "t": "folds of the neural plate"
+            },
+            {
+                "s": "cells of the neural tube",
+                "r": "differentiate along",
+                "t": "anterior\u2013posterior axis"
+            },
+            {
+                "s": "cells of the neural tube",
+                "r": "differentiate to form",
+                "t": "swellings"
+            },
+            {
+                "s": "swellings",
+                "r": "correspond to",
+                "t": "forebrain"
+            },
+            {
+                "s": "swellings",
+                "r": "correspond to",
+                "t": "midbrain"
+            },
+            {
+                "s": "swellings",
+                "r": "correspond to",
+                "t": "hindbrain"
+            },
+            {
+                "s": "neural tube",
+                "r": "develops into",
+                "t": "spinal cord"
+            },
+            {
+                "s": "cavity of the tube",
+                "r": "becomes",
+                "t": "interconnected cerebral ventricles"
+            },
+            {
+                "s": "cavity of the tube",
+                "r": "becomes",
+                "t": "central canal of the spinal cord"
+            },
+            {
+                "s": "neural tube defects",
+                "r": "are a group of",
+                "t": "congenital defects"
+            },
+            {
+                "s": "neural tube defects",
+                "r": "are caused by",
+                "t": "faulty development of the neural tube"
+            },
+            {
+                "s": "faulty development of the neural tube",
+                "r": "is from",
+                "t": "neural plate"
+            },
+            {
+                "s": "brain",
+                "r": "protrude through",
+                "t": "skull"
+            },
+            {
+                "s": "spinal cord",
+                "r": "protrude through",
+                "t": "spinal column"
+            },
+            {
+                "s": "meninges",
+                "r": "protrude through",
+                "t": "skull"
+            },
+            {
+                "s": "meninges",
+                "r": "protrude through",
+                "t": "spinal column"
+            },
+            {
+                "s": "neural tube defects",
+                "r": "gives rise to",
+                "t": "neurological disorders"
+            },
+            {
+                "s": "neural tube defects",
+                "r": "gives rise to",
+                "t": "intellectual developmental disorder"
+            },
+            {
+                "s": "neural tube defects",
+                "r": "gives rise to",
+                "t": "physical disability"
+            },
+            {
+                "s": "anencephaly",
+                "r": "is an example of",
+                "t": "neural tube defects"
+            },
+            {
+                "s": "spina bifida",
+                "r": "is an example of",
+                "t": "neural tube defects"
+            }
+        ]
+    },
+    {
+        "title": "forebrain",
+        "fq": "what is the forebrain and what are its main components?",
+        "ts": [
+            {
+                "s": "forebrain",
+                "r": "is the",
+                "t": "part of the brain"
+            },
+            {
+                "s": "forebrain",
+                "r": "develops from the",
+                "t": "anterior section of the neural tube"
+            },
+            {
+                "s": "forebrain",
+                "r": "containing the",
+                "t": "cerebrum"
+            },
+            {
+                "s": "forebrain",
+                "r": "containing the",
+                "t": "diencephalon"
+            },
+            {
+                "s": "cerebrum",
+                "r": "comprises the",
+                "t": "cerebral hemispheres"
+            },
+            {
+                "s": "cerebral hemispheres",
+                "r": "containing the",
+                "t": "basal ganglia"
+            },
+            {
+                "s": "cerebral hemispheres",
+                "r": "containing the",
+                "t": "amygdala"
+            },
+            {
+                "s": "cerebral hemispheres",
+                "r": "containing the",
+                "t": "hippocampus"
+            },
+            {
+                "s": "diencephalon",
+                "r": "comprises the",
+                "t": "thalamus"
+            },
+            {
+                "s": "diencephalon",
+                "r": "comprises the",
+                "t": "hypothalamus"
+            },
+            {
+                "s": "forebrain",
+                "r": "is also called",
+                "t": "prosencephalon"
+            }
+        ]
+    },
+    {
+        "title": "cerebrum",
+        "fq": "what is the cerebrum and what are its main characteristics?",
+        "ts": [
+            {
+                "s": "cerebrum",
+                "r": "is the",
+                "t": "largest part of the brain"
+            },
+            {
+                "s": "cerebrum",
+                "r": "forms most of the",
+                "t": "forebrain"
+            },
+            {
+                "s": "cerebrum",
+                "r": "lies in front of and above the",
+                "t": "cerebellum"
+            },
+            {
+                "s": "cerebrum",
+                "r": "consists of",
+                "t": "two cerebral hemispheres"
+            },
+            {
+                "s": "two cerebral hemispheres",
+                "r": "are bridged by the",
+                "t": "corpus callosum"
+            },
+            {
+                "s": "two cerebral hemispheres",
+                "r": "is divided into",
+                "t": "four main lobes"
+            },
+            {
+                "s": "four main lobes",
+                "r": "include",
+                "t": "frontal lobe"
+            },
+            {
+                "s": "four main lobes",
+                "r": "include",
+                "t": "occipital lobe"
+            },
+            {
+                "s": "four main lobes",
+                "r": "include",
+                "t": "parietal lobe"
+            },
+            {
+                "s": "four main lobes",
+                "r": "include",
+                "t": "temporal lobe"
+            },
+            {
+                "s": "cerebral cortex",
+                "r": "is the outer layer of the",
+                "t": "cerebrum"
+            },
+            {
+                "s": "cerebral cortex",
+                "r": "is",
+                "t": "intricately folded"
+            },
+            {
+                "s": "cerebral cortex",
+                "r": "is composed of",
+                "t": "gray matter"
+            },
+            {
+                "s": "cerebrum",
+                "r": "is also called",
+                "t": "telencephalon"
+            }
+        ]
+    },
+    {
+        "title": "cell_body",
+        "fq": "what is the cell body?",
+        "ts": [
+            {
+                "s": "cell body",
+                "r": "is the part of",
+                "t": "neuron"
+            },
+            {
+                "s": "cell body",
+                "r": "is the part of",
+                "t": "nerve cell"
+            },
+            {
+                "s": "cell body",
+                "r": "contains",
+                "t": "nucleus"
+            },
+            {
+                "s": "cell body",
+                "r": "contains",
+                "t": "organelles"
+            }
+        ]
+    },
+    {
+        "title": "hypothalamus",
+        "fq": "what is the hypothalamus and what are its functions?",
+        "ts": [
+            {
+                "s": "hypothalamus",
+                "r": "is part of",
+                "t": "diencephalon"
+            },
+            {
+                "s": "diencephalon",
+                "r": "is part of",
+                "t": "brain"
+            },
+            {
+                "s": "hypothalamus",
+                "r": "lies ventral to",
+                "t": "thalamus"
+            },
+            {
+                "s": "hypothalamus",
+                "r": "contains",
+                "t": "nuclei"
+            },
+            {
+                "s": "nuclei",
+                "r": "has primary control of",
+                "t": "autonomic (involuntary) functions of the body"
+            },
+            {
+                "s": "hypothalamus",
+                "r": "helps integrate",
+                "t": "autonomic activity"
+            },
+            {
+                "s": "hypothalamus",
+                "r": "helps integrate",
+                "t": "appropriate responses to internal and external stimuli"
+            },
+            {
+                "s": "hypothalamus",
+                "r": "is involved in",
+                "t": "appetite"
+            },
+            {
+                "s": "hypothalamus",
+                "r": "is involved in",
+                "t": "thirst"
+            },
+            {
+                "s": "hypothalamus",
+                "r": "is involved in",
+                "t": "sleep"
+            },
+            {
+                "s": "hypothalamus",
+                "r": "is involved in",
+                "t": "sexuality"
+            }
+        ]
+    },
+    {
+        "title": "thalamus",
+        "fq": "what is the thalamus and what are its main characteristics and function?",
+        "ts": [
+            {
+                "s": "thalamus",
+                "r": "is a",
+                "t": "mass of gray matter"
+            },
+            {
+                "s": "thalamus",
+                "r": "forms part of",
+                "t": "diencephalon of the brain"
+            },
+            {
+                "s": "two lobes",
+                "r": "form the",
+                "t": "walls of the third ventricle"
+            },
+            {
+                "s": "thalamus",
+                "r": "consists of a",
+                "t": "collection of nuclei"
+            },
+            {
+                "s": "collection of nuclei",
+                "r": "include",
+                "t": "sensory nuclei"
+            },
+            {
+                "s": "collection of nuclei",
+                "r": "include",
+                "t": "motor nuclei"
+            },
+            {
+                "s": "collection of nuclei",
+                "r": "include",
+                "t": "autonomic nuclei"
+            },
+            {
+                "s": "collection of nuclei",
+                "r": "include",
+                "t": "associational nuclei"
+            },
+            {
+                "s": "thalamus",
+                "r": "serves as a",
+                "t": "relay for nerve impulses"
+            },
+            {
+                "s": "nerve impulses",
+                "r": "travel between",
+                "t": "spinal cord"
+            },
+            {
+                "s": "nerve impulses",
+                "r": "travel between",
+                "t": "brainstem"
+            },
+            {
+                "s": "nerve impulses",
+                "r": "travel between",
+                "t": "cerebral cortex"
+            },
+            {
+                "s": "specific areas of the body surface",
+                "r": "are related to",
+                "t": "specific parts of the thalamus"
+            },
+            {
+                "s": "cerebral cortex",
+                "r": "are related to",
+                "t": "specific parts of the thalamus"
+            },
+            {
+                "s": "structural regions of the thalamus",
+                "r": "include",
+                "t": "dorsomedial nucleus"
+            },
+            {
+                "s": "structural regions of the thalamus",
+                "r": "include",
+                "t": "lateroventral nucleus"
+            },
+            {
+                "s": "structural regions of the thalamus",
+                "r": "include",
+                "t": "ventroposterior nucleus"
+            },
+            {
+                "s": "functional regions of the thalamus",
+                "r": "include",
+                "t": "dorsomedial nucleus"
+            },
+            {
+                "s": "functional regions of the thalamus",
+                "r": "include",
+                "t": "lateroventral nucleus"
+            },
+            {
+                "s": "functional regions of the thalamus",
+                "r": "include",
+                "t": "ventroposterior nucleus"
+            }
+        ]
+    },
+    {
+        "title": "diencephalon",
+        "fq": "what is the diencephalon and what does it include?",
+        "ts": [
+            {
+                "s": "diencephalon",
+                "r": "is the",
+                "t": "posterior part of the forebrain"
+            },
+            {
+                "s": "diencephalon",
+                "r": "includes",
+                "t": "thalamus"
+            },
+            {
+                "s": "diencephalon",
+                "r": "includes",
+                "t": "epithalamus"
+            },
+            {
+                "s": "diencephalon",
+                "r": "includes",
+                "t": "hypothalamus"
+            }
+        ]
+    },
+    {
+        "title": "epithalamus",
+        "fq": "what is the epithalamus and what are its components?",
+        "ts": [
+            {
+                "s": "epithalamus",
+                "r": "is a portion of",
+                "t": "diencephalon"
+            },
+            {
+                "s": "epithalamus",
+                "r": "is immediately above and behind",
+                "t": "thalamus"
+            },
+            {
+                "s": "epithalamus",
+                "r": "includes",
+                "t": "pineal gland"
+            },
+            {
+                "s": "epithalamus",
+                "r": "includes",
+                "t": "posterior commissure"
+            }
+        ]
+    },
+    {
+        "title": "pineal_gland",
+        "fq": "what is the pineal gland and what are its functions?",
+        "ts": [
+            {
+                "s": "pineal gland",
+                "r": "is a",
+                "t": "small, cone-shaped gland"
+            },
+            {
+                "s": "pineal gland",
+                "r": "attached by a stalk to the",
+                "t": "posterior wall of the third ventricle of the brain"
+            },
+            {
+                "s": "pineal gland",
+                "r": "is part of the",
+                "t": "epithalamus"
+            },
+            {
+                "s": "pineal gland",
+                "r": "appears to function as a part of the",
+                "t": "visual system"
+            },
+            {
+                "s": "pineal gland",
+                "r": "secretes the",
+                "t": "hormone melatonin"
+            },
+            {
+                "s": "pineal gland",
+                "r": "is an important component of the",
+                "t": "circadian system"
+            },
+            {
+                "s": "circadian system",
+                "r": "regulating",
+                "t": "biological rhythms"
+            },
+            {
+                "s": "pineal gland",
+                "r": "is an",
+                "t": "unpaired organ"
+            },
+            {
+                "s": "pineal gland",
+                "r": "located in the",
+                "t": "middle of the brain"
+            },
+            {
+                "s": "pineal gland",
+                "r": "believed was the",
+                "t": "seat of the rational soul"
+            },
+            {
+                "s": "pineal gland",
+                "r": "believed was the",
+                "t": "connection between mind and body"
+            }
+        ]
+    },
+    {
+        "title": "comissure",
+        "fq": "what is a commissure and what are its examples?",
+        "ts": [
+            {
+                "s": "commissure",
+                "r": "is a",
+                "t": "structure"
+            },
+            {
+                "s": "structure",
+                "r": "forms a",
+                "t": "bridge or junction"
+            },
+            {
+                "s": "bridge or junction",
+                "r": "connects",
+                "t": "two anatomical areas"
+            },
+            {
+                "s": "two anatomical areas",
+                "r": "includes",
+                "t": "two cerebral hemispheres"
+            },
+            {
+                "s": "two anatomical areas",
+                "r": "includes",
+                "t": "halves of the spinal cord"
+            },
+            {
+                "s": "commissure",
+                "r": "includes",
+                "t": "examples"
+            },
+            {
+                "s": "examples",
+                "r": "includes",
+                "t": "anterior commissure"
+            },
+            {
+                "s": "examples",
+                "r": "includes",
+                "t": "posterior commissure"
+            },
+            {
+                "s": "anterior commissure",
+                "r": "is a",
+                "t": "key landmarks in brain mapping"
+            },
+            {
+                "s": "posterior commissure",
+                "r": "is a",
+                "t": "key landmarks in brain mapping"
+            },
+            {
+                "s": "anterior commissure",
+                "r": "is a",
+                "t": "bundle of myelinated fibers"
+            },
+            {
+                "s": "anterior commissure",
+                "r": "joins",
+                "t": "temporal lobes"
+            },
+            {
+                "s": "anterior commissure",
+                "r": "contains",
+                "t": "fibers of the olfactory tract"
+            },
+            {
+                "s": "posterior commissure",
+                "r": "is a",
+                "t": "bundle of myelinated fibers"
+            },
+            {
+                "s": "posterior commissure",
+                "r": "connects",
+                "t": "regions in the midbrain and diencephalon"
+            }
+        ]
+    },
+    {
+        "title": "third_ventricle",
+        "fq": "what is the third ventricle and what are its main characteristics?what is the third ventricle and what are its main characteristics?",
+        "ts": [
+            {
+                "s": "third ventricle",
+                "r": "is a",
+                "t": "cavity of the brain"
+            },
+            {
+                "s": "third ventricle",
+                "r": "filled with",
+                "t": "cerebrospinal fluid"
+            },
+            {
+                "s": "third ventricle",
+                "r": "forms a",
+                "t": "cleft"
+            },
+            {
+                "s": "cleft",
+                "r": "between the",
+                "t": "two lobes of the thalamus"
+            },
+            {
+                "s": "cleft",
+                "r": "beneath the",
+                "t": "cerebral hemispheres"
+            },
+            {
+                "s": "third ventricle",
+                "r": "communicates with",
+                "t": "lateral ventricles"
+            },
+            {
+                "s": "third ventricle",
+                "r": "communicates with",
+                "t": "fourth ventricle"
+            },
+            {
+                "s": "third ventricle",
+                "r": "through the",
+                "t": "cerebral aqueduct"
+            }
+        ]
+    },
+    {
+        "title": "ventricle",
+        "fq": "what are the ventricles of the brain and how are they connected?",
+        "ts": [
+            {
+                "s": "ventricles of the brain",
+                "r": "is any of the",
+                "t": "four interconnected cavities inside the brain"
+            },
+            {
+                "s": "ventricles of the brain",
+                "r": "serve as",
+                "t": "reservoirs of cerebrospinal fluid"
+            },
+            {
+                "s": "lateral ventricles",
+                "r": "communicates with",
+                "t": "third ventricle"
+            },
+            {
+                "s": "lateral ventricles",
+                "r": "via",
+                "t": "interventricular foramen"
+            },
+            {
+                "s": "third ventricle",
+                "r": "via",
+                "t": "interventricular foramen"
+            },
+            {
+                "s": "third ventricle",
+                "r": "communicates with",
+                "t": "fourth ventricle"
+            },
+            {
+                "s": "third ventricle",
+                "r": "via",
+                "t": "cerebral aqueduct"
+            },
+            {
+                "s": "fourth ventricle",
+                "r": "via",
+                "t": "cerebral aqueduct"
+            },
+            {
+                "s": "third ventricle",
+                "r": "communicates with",
+                "t": "central canal of the spinal cord"
+            },
+            {
+                "s": "third ventricle",
+                "r": "communicates with",
+                "t": "subarachnoid space"
+            },
+            {
+                "s": "fourth ventricle",
+                "r": "communicates with",
+                "t": "central canal of the spinal cord"
+            },
+            {
+                "s": "fourth ventricle",
+                "r": "communicates with",
+                "t": "subarachnoid space"
+            }
+        ]
+    },
+    {
+        "title": "cerebrospinal_fluid",
+        "fq": "what is cerebrospinal fluid, where is it located, and what are its functions?",
+        "ts": [
+            {
+                "s": "cerebrospinal fluid (csf)",
+                "r": "is the",
+                "t": "fluid"
+            },
+            {
+                "s": "cerebrospinal fluid (csf)",
+                "r": "within the",
+                "t": "central canal of the spinal cord"
+            },
+            {
+                "s": "cerebrospinal fluid (csf)",
+                "r": "within the",
+                "t": "four ventricles of the brain"
+            },
+            {
+                "s": "cerebrospinal fluid (csf)",
+                "r": "within the",
+                "t": "subarachnoid space of the brain"
+            },
+            {
+                "s": "cerebrospinal fluid (csf)",
+                "r": "serves as a",
+                "t": "watery cushion"
+            },
+            {
+                "s": "watery cushion",
+                "r": "to protect",
+                "t": "central nervous system (cns)"
+            },
+            {
+                "s": "central nervous system (cns)",
+                "r": "from",
+                "t": "damage by shock pressure"
+            },
+            {
+                "s": "cerebrospinal fluid (csf)",
+                "r": "mediates between",
+                "t": "blood vessels"
+            },
+            {
+                "s": "cerebrospinal fluid (csf)",
+                "r": "mediates between",
+                "t": "brain tissue"
+            },
+            {
+                "s": "cerebrospinal fluid (csf)",
+                "r": "in exchange of",
+                "t": "exchange of materials"
+            },
+            {
+                "s": "exchange of materials",
+                "r": "including",
+                "t": "nutrients"
+            }
+        ]
+    },
+    {
+        "title": "central_canal",
+        "fq": "what is the central canal and what does it contain?",
+        "ts": [
+            {
+                "s": "central canal",
+                "r": "is the",
+                "t": "channel in the center of the spinal cord"
+            },
+            {
+                "s": "central canal",
+                "r": "contains",
+                "t": "cerebrospinal fluid"
+            }
+        ]
+    },
+    {
+        "title": "subarachnoid_space",
+        "fq": "what is the subarachnoid space and what are its characteristics?",
+        "ts": [
+            {
+                "s": "subarachnoid space",
+                "r": "is a space beneath",
+                "t": "arachnoid mater"
+            },
+            {
+                "s": "arachnoid mater",
+                "r": "is the middle of",
+                "t": "meninges"
+            },
+            {
+                "s": "meninges",
+                "r": "surround",
+                "t": "brain"
+            },
+            {
+                "s": "meninges",
+                "r": "surround",
+                "t": "spinal cord"
+            },
+            {
+                "s": "subarachnoid space",
+                "r": "is occupied by",
+                "t": "cerebrospinal fluid"
+            },
+            {
+                "s": "cerebrospinal fluid",
+                "r": "drains into",
+                "t": "superior sagittal sinus"
+            },
+            {
+                "s": "cerebrospinal fluid",
+                "r": "drains through",
+                "t": "arachnoid granulations"
+            }
+        ]
+    },
+    {
+        "title": "arachnoid_mater",
+        "fq": "what is the arachnoid mater?",
+        "ts": [
+            {
+                "s": "arachnoid mater",
+                "r": "is the",
+                "t": "middle one of the three membranous layers"
+            },
+            {
+                "s": "middle one of the three membranous layers",
+                "r": "covering the",
+                "t": "surface of the brain and spinal cord"
+            },
+            {
+                "s": "membranous layers",
+                "r": "is the",
+                "t": "meninges"
+            },
+            {
+                "s": "arachnoid mater",
+                "r": "is also called",
+                "t": "arachnoid"
+            },
+            {
+                "s": "arachnoid mater",
+                "r": "is also called",
+                "t": "arachnoid membrane"
+            }
+        ]
+    },
+    {
+        "title": "meninges",
+        "fq": "what are the meninges and what are their layers?",
+        "ts": [
+            {
+                "s": "meninges",
+                "r": "is the",
+                "t": "three membranous layers"
+            },
+            {
+                "s": "three membranous layers",
+                "r": "provide a",
+                "t": "protective cover"
+            },
+            {
+                "s": "meninges",
+                "r": "consist of",
+                "t": "dura mater"
+            },
+            {
+                "s": "meninges",
+                "r": "consist of",
+                "t": "arachnoid mater"
+            },
+            {
+                "s": "meninges",
+                "r": "consist of",
+                "t": "pia mater"
+            },
+            {
+                "s": "pia mater",
+                "r": "fits over the",
+                "t": "cerebral cortex"
+            }
+        ]
+    },
+    {
+        "title": "dura_matter",
+        "fq": "what is the dura mater?",
+        "ts": [
+            {
+                "s": "dura mater",
+                "r": "is the",
+                "t": "outermost and strongest layer of membranes"
+            },
+            {
+                "s": "outermost and strongest layer of membranes",
+                "r": "of the",
+                "t": "three layers of membranes"
+            },
+            {
+                "s": "three layers of membranes",
+                "r": "is the",
+                "t": "meninges"
+            },
+            {
+                "s": "meninges",
+                "r": "that cover the",
+                "t": "brain"
+            },
+            {
+                "s": "meninges",
+                "r": "that cover the",
+                "t": "spinal cord"
+            }
+        ]
+    },
+    {
+        "title": "pia_matter",
+        "fq": "what is the pia mater and what are its characteristics?",
+        "ts": [
+            {
+                "s": "pia mater",
+                "r": "is a",
+                "t": "delicate membrane"
+            },
+            {
+                "s": "pia mater",
+                "r": "covers the",
+                "t": "surface of the brain and spinal cord"
+            },
+            {
+                "s": "pia mater",
+                "r": "is the",
+                "t": "innermost layer"
+            },
+            {
+                "s": "cranial portion of the pia mater",
+                "r": "is supplied with",
+                "t": "blood vessels"
+            },
+            {
+                "s": "cranial portion of the pia mater",
+                "r": "follows the",
+                "t": "contours of the cerebral cortex"
+            },
+            {
+                "s": "cranial portion of the pia mater",
+                "r": "extends into the",
+                "t": "fissures"
+            },
+            {
+                "s": "cranial portion of the pia mater",
+                "r": "extends into the",
+                "t": "sulci"
+            }
+        ]
+    },
+    {
+        "title": "superior_sagittal_sinus",
+        "fq": "what is the superior sagittal sinus and what is its function?",
+        "ts": [
+            {
+                "s": "superior sagittal sinus",
+                "r": "is a part of",
+                "t": "system of veins"
+            },
+            {
+                "s": "system of veins",
+                "r": "drains",
+                "t": "cerebral tissues"
+            },
+            {
+                "s": "superior sagittal sinus",
+                "r": "runs across",
+                "t": "top of the cerebral cortex"
+            },
+            {
+                "s": "superior sagittal sinus",
+                "r": "drains",
+                "t": "venous blood"
+            },
+            {
+                "s": "superior sagittal sinus",
+                "r": "empties into",
+                "t": "transverse sinus"
+            },
+            {
+                "s": "transverse sinus",
+                "r": "empties into",
+                "t": "internal jugular vein"
+            }
+        ]
+    },
+    {
+        "title": "arachnoid_granulations",
+        "fq": "what are arachnoid granulations and what is their function?",
+        "ts": [
+            {
+                "s": "arachnoid granulations",
+                "r": "are a series of",
+                "t": "extensions"
+            },
+            {
+                "s": "extensions",
+                "r": "of the",
+                "t": "arachnoid mater"
+            },
+            {
+                "s": "extensions",
+                "r": "through the",
+                "t": "dura mater"
+            },
+            {
+                "s": "arachnoid granulations",
+                "r": "permits cerebrospinal fluid to drain into",
+                "t": "bloodstream"
+            }
+        ]
+    },
+    {
+        "title": "rational_soul",
+        "fq": "what is the rational soul in aristotle's thought?",
+        "ts": [
+            {
+                "s": "rational soul",
+                "r": "is the",
+                "t": "type of soul possessed by human beings"
+            },
+            {
+                "s": "rational soul",
+                "r": "has the capacity for",
+                "t": "capacity for rational thought"
+            }
+        ]
+    },
+    {
+        "title": "biological_rhythm",
+        "fq": "what is biological rhythm and what are its characteristics?",
+        "ts": [
+            {
+                "s": "biological rhythm",
+                "r": "is any",
+                "t": "periodic variation in a living organism\u2019s physiological or psychological function"
+            },
+            {
+                "s": "periodic variation in a living organism\u2019s physiological or psychological function",
+                "r": "such as",
+                "t": "energy level"
+            },
+            {
+                "s": "periodic variation in a living organism\u2019s physiological or psychological function",
+                "r": "such as",
+                "t": "sexual desire"
+            },
+            {
+                "s": "periodic variation in a living organism\u2019s physiological or psychological function",
+                "r": "such as",
+                "t": "menstruation"
+            },
+            {
+                "s": "biological rhythm",
+                "r": "can be linked to",
+                "t": "cyclical changes in environmental cues"
+            },
+            {
+                "s": "cyclical changes in environmental cues",
+                "r": "such as",
+                "t": "daylength"
+            },
+            {
+                "s": "cyclical changes in environmental cues",
+                "r": "such as",
+                "t": "passing of the seasons"
+            },
+            {
+                "s": "biological rhythm",
+                "r": "tend to be",
+                "t": "daily rhythms"
+            },
+            {
+                "s": "daily rhythms",
+                "r": "also called",
+                "t": "circadian rhythm"
+            },
+            {
+                "s": "biological rhythm",
+                "r": "tend to be",
+                "t": "annual rhythms"
+            },
+            {
+                "s": "annual rhythms",
+                "r": "also called",
+                "t": "circannual rhythm"
+            },
+            {
+                "s": "biological rhythm",
+                "r": "can vary with",
+                "t": "variation with individuals"
+            },
+            {
+                "s": "biological rhythm",
+                "r": "can vary with",
+                "t": "variation with the period of the individual\u2019s life"
+            },
+            {
+                "s": "biological rhythm",
+                "r": "also called",
+                "t": "biorhythm"
+            },
+            {
+                "s": "biological rhythm",
+                "r": "also called",
+                "t": "endogenous rhythm"
+            },
+            {
+                "s": "biological rhythm",
+                "r": "also called",
+                "t": "internal rhythm"
+            },
+            {
+                "s": "biological rhythm",
+                "r": "also called",
+                "t": "life rhythm"
+            }
+        ]
+    },
+    {
+        "title": "circadian_rhythm",
+        "fq": "what is circadian rhythm?",
+        "ts": [
+            {
+                "s": "circadian rhythm",
+                "r": "is any",
+                "t": "periodic variation in physiological or behavioral activity"
+            },
+            {
+                "s": "circadian rhythm",
+                "r": "repeats at",
+                "t": "approximately 24-hour intervals"
+            },
+            {
+                "s": "circadian rhythm",
+                "r": "such as",
+                "t": "sleep\u2013wake cycle"
+            },
+            {
+                "s": "circadian rhythm",
+                "r": "is also called",
+                "t": "diurnal rhythm"
+            }
+        ]
+    },
+    {
+        "title": "sleep_wake_cycle",
+        "fq": "what is the sleep\u2013wake cycle and what factors can disrupt it?",
+        "ts": [
+            {
+                "s": "sleep\u2013wake cycle",
+                "r": "is the",
+                "t": "natural, brain-controlled bodily rhythm"
+            },
+            {
+                "s": "natural, brain-controlled bodily rhythm",
+                "r": "results in",
+                "t": "alternate periods of sleep and wakefulness"
+            },
+            {
+                "s": "sleep\u2013wake cycle",
+                "r": "may be disrupted by",
+                "t": "flight across time zones"
+            },
+            {
+                "s": "sleep\u2013wake cycle",
+                "r": "may be disrupted by",
+                "t": "shift work"
+            },
+            {
+                "s": "sleep\u2013wake cycle",
+                "r": "may be disrupted by",
+                "t": "drug use"
+            },
+            {
+                "s": "sleep\u2013wake cycle",
+                "r": "may be disrupted by",
+                "t": "stress"
+            },
+            {
+                "s": "sleep\u2013wake cycle",
+                "r": "is also called",
+                "t": "sleep rhythm"
+            },
+            {
+                "s": "sleep\u2013wake cycle",
+                "r": "is also called",
+                "t": "sleep\u2013wakefulness cycle"
+            }
+        ]
+    },
+    {
+        "title": "olfactory_tract",
+        "fq": "what is the olfactory tract and what is its path and divisions?",
+        "ts": [
+            {
+                "s": "olfactory tract",
+                "r": "is a",
+                "t": "band of nerve fibers"
+            },
+            {
+                "s": "olfactory tract",
+                "r": "originates in the",
+                "t": "olfactory bulb"
+            },
+            {
+                "s": "olfactory tract",
+                "r": "extends along the",
+                "t": "frontal lobe of the brain"
+            },
+            {
+                "s": "olfactory tract",
+                "r": "extends to the",
+                "t": "olfactory trigone"
+            },
+            {
+                "s": "olfactory tract",
+                "r": "divides into strands leading to the",
+                "t": "medial olfactory gyri"
+            },
+            {
+                "s": "olfactory tract",
+                "r": "divides into strands leading to the",
+                "t": "lateral olfactory gyri"
+            },
+            {
+                "s": "olfactory tract",
+                "r": "divides into strands leading to the",
+                "t": "olfactory tubercle"
+            }
+        ]
+    },
+    {
+        "title": "olfactory_bulb",
+        "fq": "what is the olfactory bulb and what is its function?",
+        "ts": [
+            {
+                "s": "olfactory bulb",
+                "r": "is a",
+                "t": "bulblike ending"
+            },
+            {
+                "s": "bulblike ending",
+                "r": "on the",
+                "t": "olfactory nerve"
+            },
+            {
+                "s": "olfactory nerve",
+                "r": "in the",
+                "t": "anterior region of each cerebral hemisphere"
+            },
+            {
+                "s": "olfactory bulb",
+                "r": "is the",
+                "t": "first synapse in the olfactory system"
+            },
+            {
+                "s": "first synapse in the olfactory system",
+                "r": "picks up",
+                "t": "excitation from the nose"
+            },
+            {
+                "s": "excitation from the nose",
+                "r": "from the",
+                "t": "cilia in the olfactory epithelium"
+            },
+            {
+                "s": "cilia in the olfactory epithelium",
+                "r": "in the",
+                "t": "olfactory epithelium"
+            }
+        ]
+    },
+    {
+        "title": "olfactory_epithelium",
+        "fq": "what is the olfactory epithelium and how is it connected to the olfactory bulb?",
+        "ts": [
+            {
+                "s": "olfactory epithelium",
+                "r": "is an area of",
+                "t": "olfactory receptors"
+            },
+            {
+                "s": "olfactory epithelium",
+                "r": "in the",
+                "t": "lining of the upper part of the nose"
+            },
+            {
+                "s": "olfactory epithelium",
+                "r": "is separated from",
+                "t": "olfactory bulb"
+            },
+            {
+                "s": "olfactory epithelium",
+                "r": "by the",
+                "t": "cribriform plate"
+            },
+            {
+                "s": "receptor cells",
+                "r": "synapse with",
+                "t": "cells in the olfactory bulb"
+            }
+        ]
+    },
+    {
+        "title": "olfactory_receptor",
+        "fq": "what is the olfactory receptor and what are its characteristics?",
+        "ts": [
+            {
+                "s": "olfactory receptor",
+                "r": "is a",
+                "t": "spindle-shaped receptor cell"
+            },
+            {
+                "s": "spindle-shaped receptor cell",
+                "r": "is located in",
+                "t": "olfactory epithelium"
+            },
+            {
+                "s": "olfactory epithelium",
+                "r": "is located in",
+                "t": "nasal cavity"
+            },
+            {
+                "s": "olfactory receptor",
+                "r": "is sensitive to",
+                "t": "odorants"
+            },
+            {
+                "s": "cilia",
+                "r": "contain",
+                "t": "receptor sites for odorants"
+            },
+            {
+                "s": "receptor sites for odorants",
+                "r": "is sensitive to",
+                "t": "odorants"
+            },
+            {
+                "s": "olfactory receptor",
+                "r": "form the",
+                "t": "olfactory nerve"
+            },
+            {
+                "s": "olfactory nerve",
+                "r": "synapses with",
+                "t": "cells in the olfactory bulb"
+            },
+            {
+                "s": "olfactory receptor",
+                "r": "is also called",
+                "t": "olfactory sense organ"
+            }
+        ]
+    },
+    {
+        "title": "odorant",
+        "fq": "what is an odorant and what are its characteristics?",
+        "ts": [
+            {
+                "s": "odorant",
+                "r": "is an",
+                "t": "airborne volatile substance"
+            },
+            {
+                "s": "odorant",
+                "r": "produces an",
+                "t": "odor sensation"
+            },
+            {
+                "s": "odorant",
+                "r": "may differ in",
+                "t": "intensity"
+            },
+            {
+                "s": "odorant",
+                "r": "may differ in",
+                "t": "quality"
+            }
+        ]
+    },
+    {
+        "title": "olfactory_nerve",
+        "fq": "what is the olfactory nerve and what are its characteristics?",
+        "ts": [
+            {
+                "s": "olfactory nerve",
+                "r": "is the",
+                "t": "first cranial nerve"
+            },
+            {
+                "s": "olfactory nerve",
+                "r": "carries",
+                "t": "sensory fibers"
+            },
+            {
+                "s": "sensory fibers",
+                "r": "concerned with",
+                "t": "sense of smell"
+            },
+            {
+                "s": "olfactory nerve",
+                "r": "originates in",
+                "t": "olfactory lobe"
+            },
+            {
+                "s": "olfactory nerve",
+                "r": "is distributed to",
+                "t": "olfactory receptors"
+            },
+            {
+                "s": "olfactory receptors",
+                "r": "in the",
+                "t": "nasal mucous membrane"
+            },
+            {
+                "s": "olfactory nerve",
+                "r": "also called",
+                "t": "cranial nerve i"
+            }
+        ]
+    },
+    {
+        "title": "cribriform_plate",
+        "fq": "what is the cribriform plate and what is its function?",
+        "ts": [
+            {
+                "s": "cribriform plate",
+                "r": "is a",
+                "t": "sievelike layer"
+            },
+            {
+                "s": "cribriform plate",
+                "r": "is in the",
+                "t": "skull"
+            },
+            {
+                "s": "cribriform plate",
+                "r": "supports the",
+                "t": "olfactory bulb"
+            },
+            {
+                "s": "cribriform plate",
+                "r": "permits to extend through",
+                "t": "olfactory receptor fibers"
+            },
+            {
+                "s": "olfactory receptor fibers",
+                "r": "extends to the",
+                "t": "olfactory epithelium"
+            }
+        ]
+    },
+    {
+        "title": "cranial_nerve",
+        "fq": "what are cranial nerves and what are their types?",
+        "ts": [
+            {
+                "s": "cranial nerves",
+                "r": "is any of",
+                "t": "12 pairs of nerves"
+            },
+            {
+                "s": "12 pairs of nerves",
+                "r": "arise directly from",
+                "t": "brain"
+            },
+            {
+                "s": "12 pairs of nerves",
+                "r": "are distributed mainly to",
+                "t": "structures in the head and neck"
+            },
+            {
+                "s": "cranial nerves",
+                "r": "are",
+                "t": "sensory nerves"
+            },
+            {
+                "s": "cranial nerves",
+                "r": "are",
+                "t": "motor nerves"
+            },
+            {
+                "s": "cranial nerves",
+                "r": "are",
+                "t": "mixed nerves"
+            },
+            {
+                "s": "mixed nerves",
+                "r": "are",
+                "t": "sensory"
+            },
+            {
+                "s": "mixed nerves",
+                "r": "are",
+                "t": "motor"
+            }
+        ]
+    },
+    {
+        "title": "optic_nerve",
+        "fq": "what is the optic nerve?",
+        "ts": [
+            {
+                "s": "optic nerve",
+                "r": "is the",
+                "t": "second cranial nerve"
+            },
+            {
+                "s": "optic nerve",
+                "r": "carries the",
+                "t": "axons of retinal ganglion cells"
+            },
+            {
+                "s": "optic nerve",
+                "r": "extends from...to the",
+                "t": "retina"
+            },
+            {
+                "s": "optic nerve",
+                "r": "extends from...to the",
+                "t": "optic chiasm"
+            }
+        ]
+    },
+    {
+        "title": "facial_nerve",
+        "fq": "what is the facial nerve and what does it innervate?",
+        "ts": [
+            {
+                "s": "facial nerve",
+                "r": "is the",
+                "t": "seventh cranial nerve"
+            },
+            {
+                "s": "facial nerve",
+                "r": "innervates",
+                "t": "facial musculature"
+            },
+            {
+                "s": "facial nerve",
+                "r": "innervates",
+                "t": "sensory receptors"
+            },
+            {
+                "s": "sensory receptors",
+                "r": "includes",
+                "t": "external ear"
+            },
+            {
+                "s": "sensory receptors",
+                "r": "includes",
+                "t": "tongue"
+            }
+        ]
+    },
+    {
+        "title": "glossopharyngeal_nerve",
+        "fq": "what is the glossopharyngeal nerve?",
+        "ts": [
+            {
+                "s": "glossopharyngeal nerve",
+                "r": "is the",
+                "t": "ninth cranial nerve"
+            },
+            {
+                "s": "glossopharyngeal nerve",
+                "r": "supplies",
+                "t": "pharynx"
+            },
+            {
+                "s": "glossopharyngeal nerve",
+                "r": "supplies",
+                "t": "soft palate"
+            },
+            {
+                "s": "glossopharyngeal nerve",
+                "r": "supplies",
+                "t": "posterior third of the tongue"
+            },
+            {
+                "s": "posterior third of the tongue",
+                "r": "includes",
+                "t": "taste buds of that portion"
+            },
+            {
+                "s": "glossopharyngeal nerve",
+                "r": "contains",
+                "t": "motor fibers"
+            },
+            {
+                "s": "glossopharyngeal nerve",
+                "r": "contains",
+                "t": "sensory fibers"
+            },
+            {
+                "s": "glossopharyngeal nerve",
+                "r": "is involved in",
+                "t": "swallowing"
+            },
+            {
+                "s": "glossopharyngeal nerve",
+                "r": "is involved in",
+                "t": "conveying taste information"
+            }
+        ]
+    },
+    {
+        "title": "trochlear_nerve",
+        "fq": "what is the trochlear nerve?",
+        "ts": [
+            {
+                "s": "trochlear nerve",
+                "r": "is the",
+                "t": "fourth cranial nerve"
+            },
+            {
+                "s": "trochlear nerve",
+                "r": "contains",
+                "t": "motor fibers"
+            },
+            {
+                "s": "motor fibers",
+                "r": "supplies",
+                "t": "superior oblique muscle"
+            },
+            {
+                "s": "superior oblique muscle",
+                "r": "of the",
+                "t": "eyeball"
+            }
+        ]
+    },
+    {
+        "title": "hypoglossal_nerve",
+        "fq": "what is the hypoglossal nerve, where does it originate, and what does it innervate?",
+        "ts": [
+            {
+                "s": "hypoglossal nerve",
+                "r": "is the",
+                "t": "12th cranial nerve"
+            },
+            {
+                "s": "hypoglossal nerve",
+                "r": "is a",
+                "t": "motor nerve"
+            },
+            {
+                "s": "hypoglossal nerve",
+                "r": "originates in",
+                "t": "nucleus on the floor of the fourth ventricle within the brain"
+            },
+            {
+                "s": "hypoglossal nerve",
+                "r": "innervates",
+                "t": "muscles of the tongue"
+            },
+            {
+                "s": "hypoglossal nerve",
+                "r": "innervates",
+                "t": "lower jaw"
+            },
+            {
+                "s": "hypoglossal nerve",
+                "r": "innervates",
+                "t": "areas of the neck"
+            },
+            {
+                "s": "hypoglossal nerve",
+                "r": "innervates",
+                "t": "chest"
+            }
+        ]
+    },
+    {
+        "title": "lateral_ventricle",
+        "fq": "what is the lateral ventricle and what are its main characteristics?",
+        "ts": [
+            {
+                "s": "lateral ventricle",
+                "r": "is a",
+                "t": "chamber of complex shape"
+            },
+            {
+                "s": "chamber of complex shape",
+                "r": "lies within",
+                "t": "cerebral hemisphere"
+            },
+            {
+                "s": "cerebral hemisphere",
+                "r": "lies within",
+                "t": "brain"
+            },
+            {
+                "s": "lateral ventricle",
+                "r": "serves as a",
+                "t": "reservoir of cerebrospinal fluid"
+            },
+            {
+                "s": "lateral ventricle",
+                "r": "communicates with",
+                "t": "third ventricle"
+            }
+        ]
+    },
+    {
+        "title": "interventricular_foramen",
+        "fq": "what is the interventricular foramen and what is its function?",
+        "ts": [
+            {
+                "s": "interventricular foramen",
+                "r": "is an",
+                "t": "opening"
+            },
+            {
+                "s": "interventricular foramen",
+                "r": "connects",
+                "t": "third ventricle of the brain"
+            },
+            {
+                "s": "interventricular foramen",
+                "r": "connects",
+                "t": "lateral ventricle"
+            },
+            {
+                "s": "interventricular foramen",
+                "r": "permits the flow of",
+                "t": "cerebrospinal fluid"
+            },
+            {
+                "s": "cerebrospinal fluid",
+                "r": "through",
+                "t": "ventricles"
+            }
+        ]
+    },
+    {
+        "title": "oculomotor_nerve",
+        "fq": "what is the oculomotor nerve and what are its functions?",
+        "ts": [
+            {
+                "s": "oculomotor nerve",
+                "r": "is the",
+                "t": "third cranial nerve"
+            },
+            {
+                "s": "oculomotor nerve",
+                "r": "contains",
+                "t": "motor fibers"
+            },
+            {
+                "s": "oculomotor nerve",
+                "r": "contains",
+                "t": "sensory fibers"
+            },
+            {
+                "s": "oculomotor nerve",
+                "r": "innervates",
+                "t": "muscles associated with movement and accommodation of the eye"
+            },
+            {
+                "s": "muscles associated with movement and accommodation of the eye",
+                "r": "associated with",
+                "t": "movement of the eye"
+            },
+            {
+                "s": "muscles associated with movement and accommodation of the eye",
+                "r": "associated with",
+                "t": "accommodation of the eye"
+            },
+            {
+                "s": "oculomotor nerve",
+                "r": "innervates",
+                "t": "constriction of the pupil"
+            }
+        ]
+    },
+    {
+        "title": "lateroventral_nucleus",
+        "fq": "what is the lateroventral nucleus and what is its function?",
+        "ts": [
+            {
+                "s": "lateroventral nucleus",
+                "r": "is one of",
+                "t": "relay nuclei"
+            },
+            {
+                "s": "relay nuclei",
+                "r": "transmit",
+                "t": "impulses"
+            },
+            {
+                "s": "impulses",
+                "r": "for",
+                "t": "coordination of muscular movements"
+            }
+        ]
+    },
+    {
+        "title": "motor_cortex",
+        "fq": "what is the motor cortex, what are its parts, and what are the effects of lesions in its different regions?",
+        "ts": [
+            {
+                "s": "motor cortex",
+                "r": "is the",
+                "t": "region of the frontal lobe of the brain"
+            },
+            {
+                "s": "motor cortex",
+                "r": "is responsible for the",
+                "t": "control of voluntary movement"
+            },
+            {
+                "s": "motor cortex",
+                "r": "is divided into",
+                "t": "parts of the motor cortex"
+            },
+            {
+                "s": "primary motor cortex",
+                "r": "is also known as",
+                "t": "motor area"
+            },
+            {
+                "s": "primary motor cortex",
+                "r": "is the main source of",
+                "t": "main source of neurons in the corticospinal tract"
+            },
+            {
+                "s": "secondary motor cortex",
+                "r": "is also known as",
+                "t": "nonprimary motor cortex"
+            },
+            {
+                "s": "secondary motor cortex",
+                "r": "is made up of the",
+                "t": "premotor area"
+            },
+            {
+                "s": "secondary motor cortex",
+                "r": "is made up of the",
+                "t": "supplementary motor area"
+            },
+            {
+                "s": "secondary motor cortex",
+                "r": "is specialized for",
+                "t": "planning upcoming movements"
+            },
+            {
+                "s": "secondary motor cortex",
+                "r": "is specialized for",
+                "t": "learning new movements"
+            },
+            {
+                "s": "lesions in the primary motor cortex",
+                "r": "are due to",
+                "t": "stroke"
+            },
+            {
+                "s": "lesions in the primary motor cortex",
+                "r": "are due to",
+                "t": "traumatic injury"
+            },
+            {
+                "s": "lesions in the primary motor cortex",
+                "r": "cause",
+                "t": "initial paralysis"
+            },
+            {
+                "s": "initial paralysis",
+                "r": "may improve to a condition involving",
+                "t": "weakness"
+            },
+            {
+                "s": "initial paralysis",
+                "r": "may improve to a condition involving",
+                "t": "poor muscle tone"
+            },
+            {
+                "s": "lesions in the secondary motor cortex",
+                "r": "cause",
+                "t": "disruptions in motor planning for complex movements"
+            }
+        ]
+    },
+    {
+        "title": "motor_area",
+        "fq": "what is the motor area and what are its characteristics?",
+        "ts": [
+            {
+                "s": "motor area",
+                "r": "is an area of",
+                "t": "motor cortex"
+            },
+            {
+                "s": "motor area",
+                "r": "produces",
+                "t": "movements of skeletal muscles"
+            },
+            {
+                "s": "motor area",
+                "r": "has",
+                "t": "somatotopic organization"
+            },
+            {
+                "s": "individual neurons",
+                "r": "controlling",
+                "t": "specific movement direction"
+            },
+            {
+                "s": "specific movement direction",
+                "r": "might involve",
+                "t": "coordinated action of several muscles"
+            }
+        ]
+    },
+    {
+        "title": "corticospinal_tract",
+        "fq": "what is the corticospinal tract and what is its pathway?",
+        "ts": [
+            {
+                "s": "corticospinal tract",
+                "r": "is a",
+                "t": "motor pathway"
+            },
+            {
+                "s": "corticospinal tract",
+                "r": "originates in",
+                "t": "cerebral cortex"
+            },
+            {
+                "s": "corticospinal tract",
+                "r": "passes through",
+                "t": "pyramid of the medulla oblongata"
+            },
+            {
+                "s": "corticospinal tract",
+                "r": "descends to terminate in",
+                "t": "spinal cord"
+            },
+            {
+                "s": "fibers",
+                "r": "cross over to form",
+                "t": "lateral corticospinal tract"
+            },
+            {
+                "s": "fibers",
+                "r": "form",
+                "t": "anterior corticospinal tract"
+            },
+            {
+                "s": "anterior corticospinal tract",
+                "r": "descend in",
+                "t": "white matter of the spinal cord"
+            },
+            {
+                "s": "anterior corticospinal tract",
+                "r": "descends to terminate in",
+                "t": "anterior horns"
+            }
+        ]
+    },
+    {
+        "title": "pyramid",
+        "fq": "what is the pyramid?",
+        "ts": [
+            {
+                "s": "pyramid",
+                "r": "is a",
+                "t": "bulge"
+            },
+            {
+                "s": "bulge",
+                "r": "is on the",
+                "t": "front of the medulla oblongata"
+            },
+            {
+                "s": "fibers of motor neurons",
+                "r": "are from",
+                "t": "higher centers"
+            },
+            {
+                "s": "fibers of motor neurons",
+                "r": "cross from one side of the brain to the",
+                "t": "opposite side of the spinal cord"
+            }
+        ]
+    },
+    {
+        "title": "premotor_area",
+        "fq": "what is the premotor area and what are its characteristics?",
+        "ts": [
+            {
+                "s": "premotor area",
+                "r": "is an area of",
+                "t": "motor cortex"
+            },
+            {
+                "s": "premotor area",
+                "r": "is concerned with",
+                "t": "motor planning"
+            },
+            {
+                "s": "input to the premotor area",
+                "r": "is primarily",
+                "t": "visual input"
+            },
+            {
+                "s": "premotor area",
+                "r": "is usually triggered by",
+                "t": "activity triggered by external events"
+            }
+        ]
+    },
+    {
+        "title": "anterior_horn",
+        "fq": "what is the anterior horn?",
+        "ts": [
+            {
+                "s": "anterior horn",
+                "r": "is the",
+                "t": "frontmost division"
+            },
+            {
+                "s": "frontmost division",
+                "r": "of each",
+                "t": "lateral ventricle"
+            },
+            {
+                "s": "lateral ventricle",
+                "r": "in the",
+                "t": "brain"
+            }
+        ]
+    },
+    {
+        "title": "motor_planning",
+        "fq": "what is motor planning?",
+        "ts": [
+            {
+                "s": "motor planning",
+                "r": "is the",
+                "t": "ability of the brain"
+            },
+            {
+                "s": "ability of the brain",
+                "r": "to conceive",
+                "t": "sequence of unfamiliar actions"
+            },
+            {
+                "s": "ability of the brain",
+                "r": "to organize",
+                "t": "sequence of unfamiliar actions"
+            },
+            {
+                "s": "ability of the brain",
+                "r": "to carry out",
+                "t": "sequence of unfamiliar actions"
+            }
+        ]
+    },
+    {
+        "title": "supplementary_motor_area",
+        "fq": "what is the supplementary motor area and what are its characteristics?",
+        "ts": [
+            {
+                "s": "supplementary motor area (sma)",
+                "r": "is an area of",
+                "t": "motor cortex"
+            },
+            {
+                "s": "supplementary motor area (sma)",
+                "r": "has",
+                "t": "somatotopic organization"
+            },
+            {
+                "s": "supplementary motor area (sma)",
+                "r": "is involved in",
+                "t": "planning and learning new movements"
+            },
+            {
+                "s": "planning and learning new movements",
+                "r": "have",
+                "t": "coordinated sequences"
+            },
+            {
+                "s": "neuronal input",
+                "r": "is triggered by",
+                "t": "internal representations"
+            },
+            {
+                "s": "neuronal input",
+                "r": "is triggered by",
+                "t": "external events"
+            }
+        ]
+    },
+    {
+        "title": "somatotopic_organization",
+        "fq": "what is somatotopic organization?",
+        "ts": [
+            {
+                "s": "somatotopic organization",
+                "r": "is the",
+                "t": "topographic distribution"
+            },
+            {
+                "s": "topographic distribution",
+                "r": "relating to",
+                "t": "areas of the motor cortex"
+            },
+            {
+                "s": "areas of the motor cortex",
+                "r": "relating to",
+                "t": "specific activities of skeletal muscles"
+            },
+            {
+                "s": "somatotopic organization",
+                "r": "as mapped by",
+                "t": "electrically stimulating a point in the cortex"
+            },
+            {
+                "s": "electrically stimulating a point in the cortex",
+                "r": "and observing",
+                "t": "associated movement"
+            },
+            {
+                "s": "associated movement",
+                "r": "relating to",
+                "t": "skeletal muscle"
+            },
+            {
+                "s": "skeletal muscle",
+                "r": "relating to",
+                "t": "face"
+            },
+            {
+                "s": "skeletal muscle",
+                "r": "relating to",
+                "t": "trunk"
+            },
+            {
+                "s": "skeletal muscle",
+                "r": "relating to",
+                "t": "limb"
+            }
+        ]
+    },
+    {
+        "title": "cerebral_aqueduct",
+        "fq": "what is the cerebral aqueduct?",
+        "ts": [
+            {
+                "s": "cerebral aqueduct",
+                "r": "is a",
+                "t": "passage"
+            },
+            {
+                "s": "cerebral aqueduct",
+                "r": "contains",
+                "t": "cerebrospinal fluid"
+            },
+            {
+                "s": "cerebral aqueduct",
+                "r": "extends through",
+                "t": "midbrain"
+            },
+            {
+                "s": "cerebral aqueduct",
+                "r": "links",
+                "t": "third cerebral ventricle"
+            },
+            {
+                "s": "cerebral aqueduct",
+                "r": "links",
+                "t": "fourth cerebral ventricle"
+            }
+        ]
+    },
+    {
+        "title": "midbrain",
+        "fq": "what is the midbrain and what does it contain?",
+        "ts": [
+            {
+                "s": "midbrain",
+                "r": "is a region of",
+                "t": "upper brainstem"
+            },
+            {
+                "s": "midbrain",
+                "r": "connects",
+                "t": "forebrain"
+            },
+            {
+                "s": "midbrain",
+                "r": "connects",
+                "t": "hindbrain"
+            },
+            {
+                "s": "midbrain",
+                "r": "contains",
+                "t": "tectum"
+            },
+            {
+                "s": "tectum",
+                "r": "is associated with",
+                "t": "inferior colliculi"
+            },
+            {
+                "s": "tectum",
+                "r": "is associated with",
+                "t": "superior colliculi"
+            },
+            {
+                "s": "midbrain",
+                "r": "contains",
+                "t": "tegmentum"
+            },
+            {
+                "s": "midbrain",
+                "r": "contains",
+                "t": "substantia nigra"
+            }
+        ]
+    },
+    {
+        "title": "hindbrain",
+        "fq": "what is the hindbrain and what does it develop into?",
+        "ts": [
+            {
+                "s": "hindbrain",
+                "r": "is the",
+                "t": "posterior of three bulges"
+            },
+            {
+                "s": "embryonic brain",
+                "r": "develops from the",
+                "t": "neural tube"
+            },
+            {
+                "s": "hindbrain",
+                "r": "becomes the",
+                "t": "medulla oblongata"
+            },
+            {
+                "s": "hindbrain",
+                "r": "becomes the",
+                "t": "pons"
+            },
+            {
+                "s": "hindbrain",
+                "r": "becomes the",
+                "t": "cerebellum"
+            }
+        ]
+    },
+    {
+        "title": "cerebellum",
+        "fq": "what is the cerebellum and what are its functions?",
+        "ts": [
+            {
+                "s": "cerebellum",
+                "r": "is a portion of",
+                "t": "hindbrain"
+            },
+            {
+                "s": "cerebellum",
+                "r": "is connected by",
+                "t": "cerebellar peduncles"
+            },
+            {
+                "s": "cerebellum",
+                "r": "modulates",
+                "t": "muscular contractions"
+            },
+            {
+                "s": "cerebellum",
+                "r": "produces",
+                "t": "smooth, accurately timed ballistic movements"
+            },
+            {
+                "s": "cerebellum",
+                "r": "helps maintain",
+                "t": "equilibrium"
+            },
+            {
+                "s": "cerebellum",
+                "r": "predicting",
+                "t": "body positions"
+            },
+            {
+                "s": "cerebellum",
+                "r": "is required for",
+                "t": "motor conditioning"
+            }
+        ]
+    }
+]
