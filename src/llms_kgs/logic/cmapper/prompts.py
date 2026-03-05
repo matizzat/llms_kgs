@@ -214,7 +214,7 @@ Your task is to return a list of Knowledge Triples that answer the Focus Questio
 
 @ Source Concept Label @ Semantic Relation Phrase @ Target Concept Label @
 
-Each concept label must belong to the Concept List. Each Semantic Relation Phrase denotes a semantic relationship between concepts.
+Each concept label must belong to the Concept List. Each Semantic Relation Phrase denotes a semantic relationship between concepts and must belong to the Semantic Relation List.
 
 Examples:
 
