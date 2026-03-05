@@ -5,8 +5,8 @@ Los datos de experimentación se encuentran en la carpeta ``data``:
 * ``gemini_icl.json:`` Contiene los mapas conceptuales obtenidos por la configuración Gemini ICL.
 * ``gemini_zero.json:`` Contiene los mapas conceptuales obtenidos por la configuración Gemini Baseline.
 * ``gemma3_12b.json:`` Contiene los mapas conceptuales obtenidos por la configuración Gemma ICL.
-* ``nli:`` Este directorio contiene los resultados de las anotaciones de fidelidad de ternas de conocimiento.
-* ``rag:`` Este directorio contiene los resultados presentados en el capítulo *Inferencia con LLMs usando RAG*.
+* ``nli:`` Contiene los resultados de las anotaciones de fidelidad de ternas de conocimiento.
+* ``rag:`` Contiene los resultados presentados en el capítulo *Inferencia con LLMs usando RAG*.
 
 El paquete ``llms_kgs`` se encuentra en el directorio `src/llms_kgs`. Aquí se encuentran los códigos que implementan el método de creación de mapas conceptuales y los procedimientos Naive RAG, CMap RAG. Se incluyen los módulos que acceden a base de datos, definen las clases de dominio, interactúan con LLMs e implementan la lógica de alta de mapas conceptuales y chunks.  
 
