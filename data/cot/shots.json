@@ -1,0 +1,182 @@
+[
+    {
+        "statement": "If a baker makes 12 loaves of bread in the morning and 15 in the afternoon, how many loaves did they make in total?",
+        "reasoning": "To find the total, add the morning production to the afternoon production: 12 + 15 = 27.",
+        "answer": "27",
+        "shot_id": 0
+    },
+    {
+        "statement": "A library has 150 books. If 37 books are checked out, how many books remain on the shelves?",
+        "reasoning": "Subtract the number of books checked out from the initial total: 150 - 37 = 113.",
+        "answer": "113",
+        "shot_id": 1
+    },
+    {
+        "statement": "Each box contains 8 pens. If there are 9 boxes, how many pens are there in total?",
+        "reasoning": "Use multiplication to find the total: 8 * 9 = 72.",
+        "answer": "72",
+        "shot_id": 2
+    },
+    {
+        "statement": "A gardener wants to plant 48 seeds equally in 6 rows. How many seeds will be in each row?",
+        "reasoning": "Divide the total number of seeds by the number of rows: 48 / 6 = 8.",
+        "answer": "8",
+        "shot_id": 3
+    },
+    {
+        "statement": "If you buy 3 shirts for $15 each and pay with a $50 bill, how much change will you receive?",
+        "reasoning": "First, calculate the total cost (3 * 15 = 45), then subtract that from the payment amount (50 - 45 = 5).",
+        "answer": "5",
+        "shot_id": 4
+    },
+    {
+        "statement": "A shirt is originally priced at $40 but is on sale for 25% off. What is the discount amount?",
+        "reasoning": "Calculate 25% of 40 by multiplying: 40 * 0.25 = 10.",
+        "answer": "10",
+        "shot_id": 5
+    },
+    {
+        "statement": "If a pizza is cut into 8 equal slices and you eat 3, what fraction of the pizza is left?",
+        "reasoning": "Start with 8 slices and subtract the 3 eaten: 8 - 3 = 5 slices remaining. The fraction is 5/8.",
+        "answer": "5/8",
+        "shot_id": 6
+    },
+    {
+        "statement": "15% of a class of 40 students failed a test. How many students passed?",
+        "reasoning": "First find the number of students who failed (40 * 0.15 = 6). Subtract that from the total: 40 - 6 = 34.",
+        "answer": "34",
+        "shot_id": 7
+    },
+    {
+        "statement": "What is 2/3 of 18?",
+        "reasoning": "Multiply the number by the fraction: (18 / 3) * 2 = 12.",
+        "answer": "12",
+        "shot_id": 8
+    },
+    {
+        "statement": "If a recipe calls for 3/4 cup of sugar and you want to double the recipe, how much sugar do you need?",
+        "reasoning": "Multiply the fraction by 2: (3/4) * 2 = 6/4 = 1.5.",
+        "answer": "1.5",
+        "shot_id": 9
+    },
+    {
+        "statement": "What is the average of the following numbers: 10, 20, 30, and 40?",
+        "reasoning": "Sum the numbers (10 + 20 + 30 + 40 = 100) and divide by the count (100 / 4 = 25).",
+        "answer": "25",
+        "shot_id": 10
+    },
+    {
+        "statement": "Over three days, a runner covers 5km, 8km, and 11km. What is their average daily distance?",
+        "reasoning": "Sum the distances (5 + 8 + 11 = 24) and divide by 3 days: 24 / 3 = 8.",
+        "answer": "8",
+        "shot_id": 11
+    },
+    {
+        "statement": "If a student scores 80, 90, and 70 on three tests, what score do they need on a fourth test to have an average of 85?",
+        "reasoning": "To average 85 over 4 tests, the total points must be 85 * 4 = 340. Current total is 80 + 90 + 70 = 240. The required score is 340 - 240 = 100.",
+        "answer": "100",
+        "shot_id": 12
+    },
+    {
+        "statement": "A car travels at a constant speed of 60 miles per hour. How far will it travel in 3.5 hours?",
+        "reasoning": "Distance is rate multiplied by time: 60 * 3.5 = 210.",
+        "answer": "210",
+        "shot_id": 13
+    },
+    {
+        "statement": "A faucet leaks 5ml of water every minute. How much water is lost in 2 hours?",
+        "reasoning": "First, convert hours to minutes (2 * 60 = 120). Then multiply by the leak rate: 120 * 5 = 600.",
+        "answer": "600",
+        "shot_id": 14
+    },
+    {
+        "statement": "If a rectangle has a length of 12cm and a width of 5cm, what is its perimeter?",
+        "reasoning": "The perimeter is 2 * (length + width): 2 * (12 + 5) = 2 * 17 = 34.",
+        "answer": "34",
+        "shot_id": 15
+    },
+    {
+        "statement": "A pool holds 5,000 liters. If it is being filled at a rate of 250 liters per hour, how long will it take to fill completely?",
+        "reasoning": "Divide the total volume by the rate of filling: 5000 / 250 = 20.",
+        "answer": "20",
+        "shot_id": 16
+    },
+    {
+        "statement": "If Maria has 3 apples and Julian has 1 banana and the double of apples than Maria, how many fruits do they have in total?",
+        "reasoning": "Julian has 3 * 2 = 6 apples. The total number of fruits is 3 + 6 + 1 = 10.",
+        "answer": "10",
+        "shot_id": 17
+    },
+    {
+        "statement": "A store buys a tablet for $200 and sells it for $280. What is the percentage profit?",
+        "reasoning": "Profit is 280 - 200 = 80. Percentage profit is (80 / 200) * 100 = 40.",
+        "answer": "40",
+        "shot_id": 18
+    },
+    {
+        "statement": "A crate of 24 sodas costs $18. How much does each soda cost?",
+        "reasoning": "Divide the total cost by the number of items: 18 / 24 = 0.75.",
+        "answer": "0.75",
+        "shot_id": 19
+    },
+    {
+        "statement": "If 5x + 10 = 35, what is the value of x?",
+        "reasoning": "Subtract 10 from both sides (5x = 25), then divide by 5 (x = 5).",
+        "answer": "5",
+        "shot_id": 20
+    },
+    {
+        "statement": "A train leaves at 9:00 AM and arrives at 1:30 PM. How many minutes did the trip take?",
+        "reasoning": "The duration is 4.5 hours. Convert to minutes: 4 * 60 + 30 = 240 + 30 = 270.",
+        "answer": "270",
+        "shot_id": 21
+    },
+    {
+        "statement": "A jacket is 20% off its $100 price. A loyalty member gets an additional 10% off the sale price. What is the final price?",
+        "reasoning": "Sale price is 100 - 20 = 80. Additional discount is 10% of 80 (80 * 0.10 = 8). Final price is 80 - 8 = 72.",
+        "answer": "72",
+        "shot_id": 22
+    },
+    {
+        "statement": "In a parking lot, there are 20 cars and 10 motorcycles. How many total wheels are there?",
+        "reasoning": "Calculate wheels for cars (20 * 4 = 80) and motorcycles (10 * 2 = 20). Total: 80 + 20 = 100.",
+        "answer": "100",
+        "shot_id": 23
+    },
+    {
+        "statement": "A person saves $50 in January and doubles their savings every month. How much do they save in April?",
+        "reasoning": "Jan: 50; Feb: 100; March: 200; April: 400.",
+        "answer": "400",
+        "shot_id": 24
+    },
+    {
+        "statement": "If 5 machines can produce 5 widgets in 5 minutes, how many minutes does it take 100 machines to produce 100 widgets?",
+        "reasoning": "The rate is 1 widget per machine per 5 minutes. Therefore, each machine still takes 5 minutes to produce its own widget regardless of how many other machines are running.",
+        "answer": "5",
+        "shot_id": 25
+    },
+    {
+        "statement": "A fence is 100 meters long. If posts are placed every 10 meters, including the very beginning and the end, how many posts are needed?",
+        "reasoning": "Divide the length by the interval (100 / 10 = 10 intervals). Add 1 for the starting post: 10 + 1 = 11.",
+        "answer": "11",
+        "shot_id": 26
+    },
+    {
+        "statement": "What is the square root of (25 * 4)?",
+        "reasoning": "First multiply: 25 * 4 = 100. Then take the square root of 100, which is 10.",
+        "answer": "10",
+        "shot_id": 27
+    },
+    {
+        "statement": "A farmer has 15 sheep; all but 8 die. How many sheep are left?",
+        "reasoning": "The phrase 'all but 8 die' means that 8 sheep survived.",
+        "answer": "8",
+        "shot_id": 28
+    },
+    {
+        "statement": "If you have 3 quarters, 2 dimes, and 4 nickels, how many cents do you have in total?",
+        "reasoning": "Calculate the value of each: 3 * 25 = 75; 2 * 10 = 20; 4 * 5 = 20. Sum: 75 + 20 + 20 = 115.",
+        "answer": "115",
+        "shot_id": 29
+    }
+]

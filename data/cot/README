@@ -1,0 +1,18 @@
+En este directorio guardamos un pequeño lote de datos para probar
+las capacidades de LLMs locales y de bajos recursos para resolver
+problemas de razonamiento simples y de múltiples pasos.
+
+system.json: Contiene 30 parafraseos del mismo prompt de sistema.
+Es una lista donde cada entrada posee un identificador 'id' y una
+instrucción 'system'. 
+
+shots.json: Contiene 30 ejemplos de problemas de razonamiento sim-
+ples con sus respectivos razonamientos y soluciones. Es una lista
+donde cada entrada posee los siguientes elementos:
+
+	id: 		Un identificador.
+	statement: 	La descripción del problema.
+	reasoning:	Un razonamiento en lenguaje natural.
+	answer:		La respuesta final. 
+
+ 

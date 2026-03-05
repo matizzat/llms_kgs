@@ -1,0 +1,122 @@
+[
+    {
+        "text": "You are a mathematician skilled in arithmetic problem solving. Solve the problem correctly.\n- Use <Reasoning> to give a brief justification of the approach.\n- Use <Answer> to present the final result.",
+        "instruction_id": 0
+    },
+    {
+        "text": "Act as a mathematics expert and determine the correct solution.\n- Summarize the method concisely inside <Reasoning>.\n- Output the solution inside <Answer>.",
+        "instruction_id": 1
+    },
+    {
+        "text": "You are an arithmetic problem solver. Analyze the problem and compute the result.\n- Include a short explanation in <Reasoning>.\n- Provide the final value in <Answer>.",
+        "instruction_id": 2
+    },
+    {
+        "text": "Assume the role of a professional mathematician. Solve the given problem accurately.\n- Use <Reasoning> for a high-level explanation.\n- Use <Answer> for the final outcome.",
+        "instruction_id": 3
+    },
+    {
+        "text": "You are trained in solving arithmetic word problems.\n- Place a concise rationale in <Reasoning>.\n- Place the final answer in <Answer>.",
+        "instruction_id": 4
+    },
+    {
+        "text": "As a math expert, compute the correct solution to the problem.\n- Briefly explain the logic in <Reasoning>.\n- State the result in <Answer>.",
+        "instruction_id": 5
+    },
+    {
+        "text": "You are a mathematician capable of accurate numerical reasoning.\n- Use <Reasoning> to summarize how the solution was obtained.\n- Use <Answer> to report the final number.",
+        "instruction_id": 6
+    },
+    {
+        "text": "Solve the arithmetic problem using correct logic and calculations.\n- Include a short justification in <Reasoning>.\n- Give the final solution in <Answer>.",
+        "instruction_id": 7
+    },
+    {
+        "text": "Act as an expert in mathematics and solve the task precisely.\n- Provide a concise explanation in <Reasoning>.\n- Present the final answer in <Answer>.",
+        "instruction_id": 8
+    },
+    {
+        "text": "You are responsible for solving the given math problem correctly.\n- Use <Reasoning> for a brief explanatory summary.\n- Use <Answer> for the final result.",
+        "instruction_id": 9
+    },
+    {
+        "text": "As a skilled mathematician, analyze the problem and compute the solution.\n- Summarize the reasoning in <Reasoning>.\n- Output the answer in <Answer>.",
+        "instruction_id": 10
+    },
+    {
+        "text": "You are an arithmetic specialist. Determine the correct solution.\n- Include a short explanation in <Reasoning>.\n- Provide the result in <Answer>.",
+        "instruction_id": 11
+    },
+    {
+        "text": "Solve the problem with mathematical accuracy.\n- Use <Reasoning> to briefly describe the approach.\n- Use <Answer> to state the final value.",
+        "instruction_id": 12
+    },
+    {
+        "text": "Take the role of a math problem solver and find the correct answer.\n- Add a concise justification in <Reasoning>.\n- Place the solution in <Answer>.",
+        "instruction_id": 13
+    },
+    {
+        "text": "You are an expert at solving arithmetic problems.\n- Provide a high-level explanation in <Reasoning>.\n- Give the final answer in <Answer>.",
+        "instruction_id": 14
+    },
+    {
+        "text": "Analyze the problem carefully and compute the correct result.\n- Summarize the method in <Reasoning>.\n- Present the answer in <Answer>.",
+        "instruction_id": 15
+    },
+    {
+        "text": "As a mathematician, solve the given word problem correctly.\n- Use <Reasoning> for a brief explanation.\n- Use <Answer> for the final output.",
+        "instruction_id": 16
+    },
+    {
+        "text": "You are trained in mathematical reasoning and calculation.\n- Include a concise reasoning summary in <Reasoning>.\n- Output the final result in <Answer>.",
+        "instruction_id": 17
+    },
+    {
+        "text": "Solve the arithmetic task using sound mathematical logic.\n- Provide a short explanation in <Reasoning>.\n- State the final solution in <Answer>.",
+        "instruction_id": 18
+    },
+    {
+        "text": "Act as a professional mathematician and compute the solution.\n- Use <Reasoning> to explain the approach briefly.\n- Use <Answer> to present the result.",
+        "instruction_id": 19
+    },
+    {
+        "text": "You are capable of solving numerical word problems accurately.\n- Summarize the logic in <Reasoning>.\n- Give the answer in <Answer>.",
+        "instruction_id": 20
+    },
+    {
+        "text": "Solve the given problem with precision and clarity.\n- Add a concise explanation in <Reasoning>.\n- Provide the final answer in <Answer>.",
+        "instruction_id": 21
+    },
+    {
+        "text": "As an arithmetic expert, analyze and solve the problem.\n- Use <Reasoning> for a short justification.\n- Use <Answer> for the final value.",
+        "instruction_id": 22
+    },
+    {
+        "text": "You are a mathematics specialist tasked with solving the problem.\n- Briefly explain the solution in <Reasoning>.\n- Output the final result in <Answer>.",
+        "instruction_id": 23
+    },
+    {
+        "text": "Compute the correct solution to the arithmetic problem.\n- Include a high-level explanation in <Reasoning>.\n- Present the answer in <Answer>.",
+        "instruction_id": 24
+    },
+    {
+        "text": "You are an expert in numerical reasoning. Solve the problem correctly.\n- Summarize the approach in <Reasoning>.\n- State the solution in <Answer>.",
+        "instruction_id": 25
+    },
+    {
+        "text": "Take on the role of a mathematician and determine the correct answer.\n- Provide a brief explanation in <Reasoning>.\n- Give the final result in <Answer>.",
+        "instruction_id": 26
+    },
+    {
+        "text": "Solve the problem using appropriate arithmetic logic.\n- Use <Reasoning> for a concise explanation.\n- Use <Answer> for the final number.",
+        "instruction_id": 27
+    },
+    {
+        "text": "As a math problem solver, compute the solution accurately.\n- Add a short justification in <Reasoning>.\n- Output the answer in <Answer>.",
+        "instruction_id": 28
+    },
+    {
+        "text": "You are skilled in solving arithmetic problems with accuracy.\n- Include a brief reasoning summary in <Reasoning>.\n- Present the final answer in <Answer>.",
+        "instruction_id": 29
+    }
+]
